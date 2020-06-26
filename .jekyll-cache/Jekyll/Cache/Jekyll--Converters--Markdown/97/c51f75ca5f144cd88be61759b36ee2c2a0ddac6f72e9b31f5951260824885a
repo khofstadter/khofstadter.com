@@ -1,0 +1,27 @@
+I"­	<p><em>Focus</em> (<em>prototype</em>) is a musical game that by measuring real-time EEG data can help reduce stress. To reward the participant whenever a challenge is completed, the system generates or alters preset and generative musical expressions.</p>
+
+<iframe src="//fast.wistia.net/embed/playlists/8x4x7lxq09?media_0_0%5BautoPlay%5D=false&amp;media_0_0%5BcontrolsVisibleOnLoad%5D=false&amp;theme=tab&amp;version=v1&amp;videoOptions%5BautoPlay%5D=true&amp;videoOptions%5BvideoHeight%5D=360&amp;videoOptions%5BvideoWidth%5D=640&amp;videoOptions%5BvolumeControl%5D=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_playlist" name="wistia_playlist" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="640" height="360"></iframe>
+<p><br /><br />
+Why was this research timely? <a href="https://sharpbrains.com/market-report/"><kbd>Digital Health Market Research</kbd></a>.</p>
+
+<p>tools: SuperCollider, Processing, <a href="http://www.sojamo.de/libraries/oscP5/">OSCP5</a>, Neurosky Mindwave
+<br /></p>
+
+<h2 id="related-writing">related writing</h2>
+
+<ul>
+  <li>The development of software for auditory display incorporating principles of
+generative music and neuro-feedback training (<a href="/../assets/doc/K_Hofstadter_2013_the_development_of_software_for_auditory_display_incorporating_principles_of_generative_music_and_neuro-feedback_training.pdf">pdf</a>)</li>
+</ul>
+
+<h2 id="related-releases">related releases</h2>
+<ul>
+  <li><a href="/focus-trial/">Focus Trial</a> (A musical release featuring compositions made with the Focus prototype, a SuperCollider sequencer generating random musical pattern);</li>
+  <li><a href="/focus-trial-+/">Focus Trial+</a> (Live performance with <em>focus prototype</em>, a SuperCollider sequencer generating random musical pattern.);</li>
+  <li><a href="https://www.youtube.com/watch?v=wlfhNZmEAvw&amp;list=PLRr9g36OjY694ayI52Eld2rT7qKrsND_S">Compulsive Music Waves</a> (A series of live performances with the focus-sequencer)
+    <h2 id="related-vlogs">related vlogs</h2>
+  </li>
+  <li><a href="https://www.youtube.com/watch?v=YkNkk2rKq_I&amp;list=PLRr9g36OjY69_39_Jbpr8FSo7I4x6ES0D">MA vlog</a> (video reports on development, a YouTube playlist)</li>
+  <li><a href="https://www.youtube.com/watch?v=WD0A8mkwTKw&amp;list=PLRr9g36OjY6-7Sxx81Uy9dKgfYBV1382R">between MA and PhD vlog</a> (video reports on development, a YouTube playlist)</li>
+</ul>
+:ET
