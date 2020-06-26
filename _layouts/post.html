@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<header class="post-header">
+  <h2>{{ page.title }}</h2>
+    {% if page.tags[0] != "ongoing" %}
+    {{ page.date | date: "%-d %B %Y"}}
+    {% else %}
+    since: {{ page.date | date: "%-d %B %Y"}}
+  {% endif %}
+  <div class="tags">tags: {{ page.tags | join: ", "  }}</div>
+
+</header>
+<br>
+{{ page.short }}
+<br>
+{{ content }}
+{% if page.comment %}
+<br><br>
+  {% include show-disqus.html %}
+{% endif %}
+<br><br><br>

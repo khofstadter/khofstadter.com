@@ -1,0 +1,40 @@
+# Site settings
+title: "Krisztián Hofstädter"
+description: "Archive of Krisztián Hofstädter aka tEdör"
+keywords:
+- tedor, tedör, krisztian hofstadter, creative technologist
+
+# markdown: CommonMarkGhPages # helps collapsibles in md;
+# https://github.community/t5/GitHub-Pages/Collapsible-markdown-inside-lt-details-gt-lt-summary-gt-lt/m-p/13838#M1090
+
+# url
+url: # might not be needed;
+baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+
+# Build settings
+permalink: /:title/
+## exclude
+exclude:
+- README.md
+- CNAME
+
+plugins:
+  - jekyll-sitemap
+
+# Sitemap (see sitemap.xml)
+sitemap:
+  changefreq: weekly
+
+# Third-party services
+# Google tracking (Analytics and Google Tag Manager)
+google_analytics: UA-125796353-1
+# google_tag_manager:
+disqus_shortname: https-khofstadter-info
+
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
