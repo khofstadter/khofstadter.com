@@ -32,45 +32,45 @@ Let's start with an exercise:
 3. Try to match a haiku to a composition.
 
 
-> My Life;-   
-> How much more of it remains?   
-> The night is brief.    
+> My Life;-
+> How much more of it remains?
+> The night is brief.
 
 ---
 
 
 
-> Nude Beach   
-> Nothing New   
-> Under The Sun   
+> Nude Beach
+> Nothing New
+> Under The Sun
 
 
 
 ---
 
 
-> The Depths, Swelling Green   
-> Leviathan Walks, Waves Break   
+> The Depths, Swelling Green
+> Leviathan Walks, Waves Break
 > Cold Sleet, it is here.
 
 ---
 
-> The wind of war   
-> Blowing across my face   
-> The thunder roaring loudly   
+> The wind of war
+> Blowing across my face
+> The thunder roaring loudly
 
 
 
 ---
 
-> An SSBN   
-> Moves silently through the deep -   
-> Five knots to nowhere.   
+> An SSBN
+> Moves silently through the deep -
+> Five knots to nowhere.
 
 ---
 
-> Tremble, oh my gravemound,   
-> in time my cries will be   
+> Tremble, oh my gravemound,
+> in time my cries will be
 > only this autumn wind
 > ---
 
@@ -83,11 +83,11 @@ Key: kettő, kilenc, tíz, tizenhárom, tizennyolc, nyolc (in order).
 
 <br>
 
-What was similar in these compositions?   
-Are the haikus compositions?   
-What does it mean to compose?   
-What was different?   
-Would you have interpreted poems in similar ways into music?  
+What was similar in these compositions?
+Are the haikus compositions?
+What does it mean to compose?
+What was different?
+Would you have interpreted poems in similar ways into music?
 Now, that you have heard an example of someone's interpretation, is your imagination guided in a certain way?
 
 <br>
@@ -96,7 +96,7 @@ Now, that you have heard an example of someone's interpretation, is your imagina
 
 ![image](http://orig11.deviantart.net/e63b/f/2014/089/6/c/30_03_14_by_sanchiko-d7c8tdf.jpg)
 
-* So what is an imaginary soundscape? How can we compose one? Let's the [terminology](/terminology) page.  
+* So what is an imaginary soundscape? How can we compose one? Let's the [terminology](/terminology) page.
 * Read the poems, choose one.
 * Close your eyes and imagine the happenings, pictures, movements. There might be animals, humans, machines, nature, synthetic sounds, abstract sounds, conversations, real environments... Hear and listen to their sounds. What is the difference between hearing and listening?
 * Capture the emotional content, rhythm, pace, form.
@@ -119,12 +119,6 @@ Any other ideas?
 To understand the difference between these, can help us get closer to a creative state of mind as well. In this video Pauline touches on some very interesting ideas:
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/_QHfOuRrJB8?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
-
-### Meditation
-
-To get into a meditative state of mind, there are many different methods, tools, techniques. Here a very simple one, inline with ideas around sound, hearing and listening.
-
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/NyKntOXIINI?rel=0&amp;showinfo=0" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
 
 ---
 ---
