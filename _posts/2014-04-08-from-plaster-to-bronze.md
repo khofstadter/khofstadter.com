@@ -16,11 +16,11 @@ My tasks:
 * sound and video post-production and
 * DVD artwork and management of duplication.
 
-![](/../assets/images/2014-04-08-from-plaster-to-bronze-dvd-front.jpg)
+![](/../assets/img/2014-04-08-from-plaster-to-bronze-dvd-front.jpg)
 
-![](/../assets/images/2014-04-08-from-plaster-to-bronze-dvd-front-and-back.jpg)
+![](/../assets/img/2014-04-08-from-plaster-to-bronze-dvd-front-and-back.jpg)
 
-![](/../assets/images/2014-04-08-from-plaster-to-bronze-dvd-inside.jpg)
+![](/../assets/img/2014-04-08-from-plaster-to-bronze-dvd-inside.jpg)
 
 Premiere in Autumn 2014.
 

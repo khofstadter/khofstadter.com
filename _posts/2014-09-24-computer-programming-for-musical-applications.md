@@ -10,6 +10,6 @@ Teaching textual audio programming with SuperCollider language.
 
 Adding outcomes and resources as soon as possible.
 
-![](/../assets/images/2014-09-24-computer-programming-for-musical-applications-sc01.jpg)
+![](/../assets/img/2014-09-24-computer-programming-for-musical-applications-sc01.jpg)
 
-![](/../assets/images/2014-09-24-computer-programming-for-musical-applications-sc02.jpg)
+![](/../assets/img/2014-09-24-computer-programming-for-musical-applications-sc02.jpg)

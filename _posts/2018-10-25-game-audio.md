@@ -6,7 +6,7 @@ comment: true
 short: Why make audio for games? What does audio in films and games do?
 ---
 
-![Sound In Games](/../assets/images/2018-10-25-game-audio-girl-headphones.jpg)
+![Sound In Games](/../assets/img/2018-10-25-game-audio-girl-headphones.jpg)
 
 *Why make audio for games?*
 
@@ -57,7 +57,7 @@ Playing games makes you aware of the audio conventions to follow, or break. Now 
 
 (Probably even more than when working on film projet.)
 
-![Be Organised](/../assets/images/2018-10-25-game-audio-be-organised.jpg)
+![Be Organised](/../assets/img/2018-10-25-game-audio-be-organised.jpg)
 
 * Name your audio files descriptively in organised folders.
 * Ask your client for 'file naming conventions'.

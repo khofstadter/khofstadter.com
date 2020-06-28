@@ -16,11 +16,11 @@ wistiaEmbed = Wistia.embed("irfrbu2ryd", {
 });
 </script>
 
-![box](/../assets/images/2011-04-06-secret-place-01.jpg)
+![box](/../assets/img/2011-04-06-secret-place-01.jpg)
 
-![heads](/../assets/images/2011-04-06-secret-place-02.jpg)
+![heads](/../assets/img/2011-04-06-secret-place-02.jpg)
 
-![spraying](/../assets/images/2011-04-06-secret-place-03.jpg)
+![spraying](/../assets/img/2011-04-06-secret-place-03.jpg)
 
 tools: Arduino, infrared sensors, Max/MSP
 <br>

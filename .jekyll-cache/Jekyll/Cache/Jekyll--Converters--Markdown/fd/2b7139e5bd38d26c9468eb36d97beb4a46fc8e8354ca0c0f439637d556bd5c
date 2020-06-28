@@ -1,4 +1,4 @@
-I"«<p><br /></p>
+I"ï¿½<p><br /></p>
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
 <div id="wistia_irfrbu2ryd" class="wistia_embed" style="width:100%px;height:100%px;">&nbsp;</div>
 </div></div>
@@ -10,11 +10,11 @@ wistiaEmbed = Wistia.embed("irfrbu2ryd", {
 });
 </script>
 
-<p><img src="/../assets/images/2011-04-06-secret-place-01.jpg" alt="box" /></p>
+<p><img src="/../assets/img/2011-04-06-secret-place-01.jpg" alt="box" /></p>
 
-<p><img src="/../assets/images/2011-04-06-secret-place-02.jpg" alt="heads" /></p>
+<p><img src="/../assets/img/2011-04-06-secret-place-02.jpg" alt="heads" /></p>
 
-<p><img src="/../assets/images/2011-04-06-secret-place-03.jpg" alt="spraying" /></p>
+<p><img src="/../assets/img/2011-04-06-secret-place-03.jpg" alt="spraying" /></p>
 
 <p>tools: Arduino, infrared sensors, Max/MSP
 <br /></p>
