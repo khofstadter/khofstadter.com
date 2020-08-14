@@ -139,7 +139,7 @@ More on audio technology developments can be read in 'The History of Sound in th
 <br><br><br>
 
 ## III. Film Music Between 1930 to 1950
-![Golden Age Cinemas](http://sunnycv.com/steve/filmnotes/images/PDRM4690b.jpg)
+![Golden Age Cinemas](http://sunnycv.com/steve/filmnotes//assets/img//PDRM4690b.jpg)
 This period of time is also called the 'Golden Age of Hollywood' and was the most productive time in the history of film - many films were made. The ideology of studios, "If it works, do it again!", was implemented in 'in-house music studios to streamline music production. Many people went to movies at least once a week in America, so there were many movies to be made. Often a composer had only five days to compose a whole score - today a film music composer could have about eight weeks for one movie.
 
 Well-trained European composers flew to America, many times escaping the Nazis. (Were European composers better trained than American ones?)

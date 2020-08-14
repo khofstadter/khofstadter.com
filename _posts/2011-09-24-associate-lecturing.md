@@ -30,4 +30,4 @@ short: My modules investigate ideas in music technology, sonic art, business, pe
 09/2014 – 06/2015 @ University of Bedfordshire| Teaching SuperCollider language.
 Besides teaching I have been a dissertation advisor on several occasions, research-lecture organiser as well as have helped shaping the new ‘Electronic Music’ pathway in the ARU’s music department.
 
-<img class="noresize" src="../assets/images/khofstadter-teaching.png" alt="Krisztian teaching">
+<img class="noresize" src="../assets/img//khofstadter-teaching.png" alt="Krisztian teaching">

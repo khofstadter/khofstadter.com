@@ -74,7 +74,7 @@ layout: default
 - https://www.youtube.com/watch?v=NhIPocArgBo
 - https://1stwebdesigner.com/code-snippets-responsive-navigation-menu/
 
-### Images
+### /assets/img/
 - https://gratisography.com/
 
 ### Writing

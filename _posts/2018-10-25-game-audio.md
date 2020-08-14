@@ -41,7 +41,7 @@ _What's the difference between audio for films and audio for games?_
 
 ## Different Categories
 
-![Some games](http://blu-phhs-school.doomby.com/medias/images/addicting-games-1.jpg)
+![Some games](http://blu-phhs-school.doomby.com/medias//assets/img//addicting-games-1.jpg)
 
 * online games, console, mobile games
 * action-adventure, strategy, RPG,
@@ -119,7 +119,7 @@ Short history of game music [here](http://captivatingsound.com/alternative-histo
 
 ## Project Management
 
-![Trello](https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/fb4de993e22034b76539da073ea8d35c/home-hero.png)
+![Trello](https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res//assets/img//fb4de993e22034b76539da073ea8d35c/home-hero.png)
 
 When you work with game developers you might be asked to join a web-based project management application like [Trello](https://trello.com/b/HUadsBaL/storm-brothers) or [Mantis Bug Tracker](http://www.i-show-you.de/mantis/my_view_page.php).
 

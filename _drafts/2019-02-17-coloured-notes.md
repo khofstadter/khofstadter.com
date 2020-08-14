@@ -18,7 +18,7 @@ what methods are there?
 - have been using the 4 BIC pen for a while in the paper notebook: black (normal), blue (link/connection/relationship - like a html link), green (personal/dream/comments), red (important)
 - this system shoudl be used in my pdf note taking as well, however, there is no black as the text is in black, previously I used this
 
-![prev. colour coding](../assets/images/pdf-colour-coding-01.jpg)
+![prev. colour coding](../assets/img//pdf-colour-coding-01.jpg)
 
 new for research paper/books, etc: 
 
