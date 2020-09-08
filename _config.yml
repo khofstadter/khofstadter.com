@@ -15,7 +15,6 @@ baseurl: "" # required if used under gh-pages branch, else (under master branch)
 permalink: /:title/
 ## exclude
 exclude:
-- README.md
 - CNAME
 
 plugins:
