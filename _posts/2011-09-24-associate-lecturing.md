@@ -1,10 +1,10 @@
 ---
 title: associate lecturing
 categories: teaching
-tags: [ongoing, teaching, music]
+tags: [teaching, music]
 short: My modules investigate ideas in music technology, sonic art, business, performance, etc.
-
 ---
+
 <br>
 ## Sonic Art
 01/2019 - ongoing @ ARU | A 15 credit module at ARU, Cambridge. Students are encourage to take ownership in the decisions made for the syllabus. Weekly discussion support their projects and future plans. [https://khofstadter.info/sonic-art-2019/](https://khofstadter.info/sonic-art-2019/)

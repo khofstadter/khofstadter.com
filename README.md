@@ -3,6 +3,7 @@ My personal website.
 
 ## todo
 - add filter to group posts where related links need to be displayed;
+- make it look a bit like https://djy.io/
 
 ## system
 - make new (clean) repo (that does not look cloned)

@@ -1,5 +1,5 @@
 ---
-title: mpa research lectures
+title: MPA research lectures
 categories: events
 tags: [events, organiser, music]
 comment: false

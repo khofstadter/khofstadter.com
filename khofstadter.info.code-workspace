@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"spellright.addToSystemDictionary": true,
+		"spellright.language": [
+		"en-US"
+		]
+	}
+}
