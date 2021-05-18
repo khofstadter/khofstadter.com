@@ -11,7 +11,6 @@
     {% if post.redirect_url %}
     {% capture url_to_use %}{{ post.redirect_url }}{% endcapture %}
     {% endif %}
-    {% if post.tags[0] != "ongoing" %}
     <li>
       <input id="node3++{{ first_loop }}++{{ forloop.index }}" name='node' class='node' type="radio">
       <label for="node3++{{ first_loop }}++{{ forloop.index }}" data-idx='3++{{ first_loop }}++{{ forloop.index }}'>{{ post.title }}</label>
@@ -24,7 +23,6 @@
       </li>
       </ul>
     </li>
-      {% endif %}
     {% endfor %}
   </ul>
 </form>

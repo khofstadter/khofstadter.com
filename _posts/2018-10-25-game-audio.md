@@ -5,8 +5,9 @@ tags: [writing, music, game audio, generative, 3d sound]
 comment: true
 short: Why make audio for games? What does audio in films and games do?
 ---
+This article was written as presentation outline.
 
-![Sound In Games](/../assets/img/2018-10-25-game-audio-girl-headphones.jpg)
+![sound In games](/../assets/img/2018-10-25-game-audio-girl-headphones.jpg)
 
 *Why make audio for games?*
 
@@ -17,31 +18,30 @@ performing, composing for films/games, making audio libraries, sound recording a
 
 *What does audio in films and games do?*
 
-- sets the mood/emotion;
-- identifies time/place;
-- identifies character (leitmotif);
-- sets pace;
-- increases immersion;
-- character subtext;
-- ...
+- sets the mood/emotion
+- identifies time/place
+- identifies character (leitmotif)
+- sets pace
+- increases immersion
+- character subtext
 
 <br><br><br>
 
-## Film vs Game Music
+## film vs game music
 
 _What's the difference between audio for films and audio for games?_
 
 ![Non linear](https://heterogenoustasks.files.wordpress.com/2015/01/openmap.png)
 
 * linear vs non-linear (excl. trailers)
-* carefully crafter music loops
+* carefully crafted music loops
 * interactivity: sounds are triggered, mapped
 
 <br><br><br>
 
-## Different Categories
+## different categories
 
-![Some games](http://blu-phhs-school.doomby.com/medias//assets/img//addicting-games-1.jpg)
+![some games](../assets/img/2018-10-25-game-audio-florian-olivo-Mf23RF8xArY-unsplash.jpg)
 
 * online games, console, mobile games
 * action-adventure, strategy, RPG,
@@ -53,7 +53,7 @@ Playing games makes you aware of the audio conventions to follow, or break. Now 
 
 <br><br><br>
 
-## Be Organised
+## be organised
 
 (Probably even more than when working on film projet.)
 
@@ -64,7 +64,7 @@ Playing games makes you aware of the audio conventions to follow, or break. Now 
 
 <br><br><br>
 
-## Your Jobs
+## your jobs
 
 * specialised audio job e.g. composing (often AAA) vs everything from foley to mastering (often indie game)
 * in-house (often AAA) vs freelance/contract
@@ -77,22 +77,21 @@ Concentrate on what you want to do, but if you are comfortable with technology, 
 
 <br><br><br>
 
-## Learning New Technologies
+## learning new technologies
 
-### Spacial Sound
+### spacial sound
 
 ![Binaural head](http://farm5.static.flickr.com/4019/4313481359_0882feecae_o.jpg)
 
-* [Mono] [Stereo] [Surround] [Binaural]   
-*What is the difference?*
+* [mono] [stereo] [surround] [binaural] - what's the difference?
 
-* [Immersive](https://www.thefreedictionary.com/immersive) - how does our audio help immersion?  
+* [immersive](https://www.thefreedictionary.com/immersive) - how does our audio help immersion?  
 
 ![Immersion](http://www.bookwormroom.com/wp-content/uploads/2013/09/A-joyous-full-immersion-baptism.jpg)
 
-Get to know different systems - will add to your skillset!
+Get to know different systems - it will add to your skill-set!
 
-### Audio Games
+### audio games
 
 Use headphones with the video to fully *immerse* in it.
 
@@ -108,7 +107,7 @@ Think about VR, motion detection, ...
 
 <br><br><br>
 
-## History and Examples of Game Audio
+## history and examples of game audio
 
 ![First game](http://media.vanityfair.com/photos/54cbffcefde9250a6c40fc92/master/w_790,c_limit/image.jpg)
 Evolution of audio in games: Silent games > sine and square waves on hardware chips > FM synthesis > MIDI > 8 bit [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) > 16 bit PCM.
@@ -117,9 +116,9 @@ Short history of game music [here](http://captivatingsound.com/alternative-histo
 
 <br><br><br>
 
-## Project Management
+## project management
 
-![Trello](https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res//assets/img//fb4de993e22034b76539da073ea8d35c/home-hero.png)
+![Trello](../assets/img/2018-10-25-game-audio-trello.jpg)
 
 When you work with game developers you might be asked to join a web-based project management application like [Trello](https://trello.com/b/HUadsBaL/storm-brothers) or [Mantis Bug Tracker](http://www.i-show-you.de/mantis/my_view_page.php).
 
@@ -141,7 +140,7 @@ Please email Brain's Eden to express your interest in going as an audio person: 
 
 <br><br><br>
 
-## Jobs
+## jobs
 
 * create databases, bookmarks, ...
 * monitor game developer's websites
@@ -151,7 +150,7 @@ Please email Brain's Eden to express your interest in going as an audio person: 
 
 <br><br><br>
 
-## Website
+## website
 
 Online presence might be good for you when you freelance.    
 _Shall we cover how to make a basic website for your work?_
@@ -159,7 +158,7 @@ _Shall we cover how to make a basic website for your work?_
 
 <br><br><br>
 
-## Interesting
+## interesting
 
 **The Role of Audio for Immersion in Games**   
 "Immersion is considered to be one of the key factors making games worthy to play. The unity that seems to exist in the fact that many parties value this phenomenon is more apparent than real: there is a lot of dispute on the scope of immersion. Several classifications of immersion are compared for a better understanding of the nature of an immersive experience. The three‐dimensional SCI‐model by Ermi & Mäyrä (2005) is considered as valuable representation of the multi‐dimensional character of immersion." Read more about this [here](http://captivatingsound.com/phd-thesis-captivating-sound-the-role-of-audio-for-immersion-in-games/).
@@ -168,9 +167,8 @@ _Shall we cover how to make a basic website for your work?_
 [Beep](http://gamessound.com/) is a documentary history of game sound, from the Victorian arcades to today. You can watch full interviews with game composers on this website was well [here](http://gamessound.com/movie.html).
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.6669%;"><iframe src="https://player.vimeo.com/video/157076047?title=0&byline=0&portrait=0" style="order: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
-
+<br>
 **Composer Nick Ryan**   
-![Nick Ryan](http://www.fasterthansound.com/wp-content/uploads/2012/10/PV9A0785.jpg)
 Interesting BAFTA interview with Nick Ryan [here](https://www.youtube.com/watch?v=Roa1wI3MS5M) and 'Sound is Magic' article on [Gamasutra](http://www.gamasutra.com/blogs/WinifredPhillips/20150818/251605/quotSound_is_Magicquot__Insights_for_the_Game_Music_Composer.php).
 
 **8-bit games**   
@@ -178,7 +176,7 @@ If you get bored of making music, play some games from the past [here](http://ww
 
 <br><br><br>
 
-## Reading
+## reading
 
 * Collins, Karen. *Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design*. Cambridge: MIT Press, 2008
 

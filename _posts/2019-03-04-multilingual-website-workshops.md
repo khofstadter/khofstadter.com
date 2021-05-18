@@ -8,12 +8,12 @@ short: I delivered two workshops on setting up a multilingual website with Jekyl
 ---
 
 
-### workshop 2 (Summer 2020)
+### Workshop 2 (Summer 2020)
 Due to COVID19 restrictions, the second workshop was delivered as an online video tutorial. The outline can be found in the relevant [GitHub repository](https://github.com/krisztian-hofstadter-tedor/web00-website-making-tutorials) and the videos on [YouTube](https://www.youtube.com/playlist?list=PLRr9g36OjY6-xnDwUx4itRlh-xrlsszNZ). 
 
 <br>
 
-### workshop 1 (March 2019)
+### Workshop 1 (March 2019)
 
 ![Essex, Lab K](/../assets/img/2019-03-03-multilingual-website-workshop-01.jpg)
 

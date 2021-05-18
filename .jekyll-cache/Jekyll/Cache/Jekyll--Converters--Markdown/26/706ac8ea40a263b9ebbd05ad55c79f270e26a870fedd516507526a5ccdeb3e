@@ -1,4 +1,6 @@
-I"�*<p><img src="/../assets/img/2018-10-25-game-audio-girl-headphones.jpg" alt="Sound In Games" /></p>
+I"*<p>This article was written as presentation outline.</p>
+
+<p><img src="/../assets/img/2018-10-25-game-audio-girl-headphones.jpg" alt="sound In games" /></p>
 
 <p><em>Why make audio for games?</em></p>
 
@@ -12,18 +14,17 @@ performing, composing for films/games, making audio libraries, sound recording a
 <p><em>What does audio in films and games do?</em></p>
 
 <ul>
-  <li>sets the mood/emotion;</li>
-  <li>identifies time/place;</li>
-  <li>identifies character (leitmotif);</li>
-  <li>sets pace;</li>
-  <li>increases immersion;</li>
-  <li>character subtext;</li>
-  <li>…</li>
+  <li>sets the mood/emotion</li>
+  <li>identifies time/place</li>
+  <li>identifies character (leitmotif)</li>
+  <li>sets pace</li>
+  <li>increases immersion</li>
+  <li>character subtext</li>
 </ul>
 
 <p><br /><br /><br /></p>
 
-<h2 id="film-vs-game-music">Film vs Game Music</h2>
+<h2 id="film-vs-game-music">film vs game music</h2>
 
 <p><em>What’s the difference between audio for films and audio for games?</em></p>
 
@@ -31,15 +32,15 @@ performing, composing for films/games, making audio libraries, sound recording a
 
 <ul>
   <li>linear vs non-linear (excl. trailers)</li>
-  <li>carefully crafter music loops</li>
+  <li>carefully crafted music loops</li>
   <li>interactivity: sounds are triggered, mapped</li>
 </ul>
 
 <p><br /><br /><br /></p>
 
-<h2 id="different-categories">Different Categories</h2>
+<h2 id="different-categories">different categories</h2>
 
-<p><img src="http://blu-phhs-school.doomby.com/medias//assets/img//addicting-games-1.jpg" alt="Some games" /></p>
+<p><img src="../assets/img/2018-10-25-game-audio-florian-olivo-Mf23RF8xArY-unsplash.jpg" alt="some games" /></p>
 
 <ul>
   <li>online games, console, mobile games</li>
@@ -53,7 +54,7 @@ performing, composing for films/games, making audio libraries, sound recording a
 
 <p><br /><br /><br /></p>
 
-<h2 id="be-organised">Be Organised</h2>
+<h2 id="be-organised">be organised</h2>
 
 <p>(Probably even more than when working on film projet.)</p>
 
@@ -66,7 +67,7 @@ performing, composing for films/games, making audio libraries, sound recording a
 
 <p><br /><br /><br /></p>
 
-<h2 id="your-jobs">Your Jobs</h2>
+<h2 id="your-jobs">your jobs</h2>
 
 <ul>
   <li>specialised audio job e.g. composing (often AAA) vs everything from foley to mastering (often indie game)</li>
@@ -81,27 +82,26 @@ Concentrate on what you want to do, but if you are comfortable with technology, 
 
 <p><br /><br /><br /></p>
 
-<h2 id="learning-new-technologies">Learning New Technologies</h2>
+<h2 id="learning-new-technologies">learning new technologies</h2>
 
-<h3 id="spacial-sound">Spacial Sound</h3>
+<h3 id="spacial-sound">spacial sound</h3>
 
 <p><img src="http://farm5.static.flickr.com/4019/4313481359_0882feecae_o.jpg" alt="Binaural head" /></p>
 
 <ul>
   <li>
-    <p>[Mono] [Stereo] [Surround] [Binaural] <br />
-<em>What is the difference?</em></p>
+    <p>[mono] [stereo] [surround] [binaural] - what’s the difference?</p>
   </li>
   <li>
-    <p><a href="https://www.thefreedictionary.com/immersive">Immersive</a> - how does our audio help immersion?</p>
+    <p><a href="https://www.thefreedictionary.com/immersive">immersive</a> - how does our audio help immersion?</p>
   </li>
 </ul>
 
 <p><img src="http://www.bookwormroom.com/wp-content/uploads/2013/09/A-joyous-full-immersion-baptism.jpg" alt="Immersion" /></p>
 
-<p>Get to know different systems - will add to your skillset!</p>
+<p>Get to know different systems - it will add to your skill-set!</p>
 
-<h3 id="audio-games">Audio Games</h3>
+<h3 id="audio-games">audio games</h3>
 
 <p>Use headphones with the video to fully <em>immerse</em> in it.</p>
 
@@ -117,7 +117,7 @@ Concentrate on what you want to do, but if you are comfortable with technology, 
 
 <p><br /><br /><br /></p>
 
-<h2 id="history-and-examples-of-game-audio">History and Examples of Game Audio</h2>
+<h2 id="history-and-examples-of-game-audio">history and examples of game audio</h2>
 
 <p><img src="http://media.vanityfair.com/photos/54cbffcefde9250a6c40fc92/master/w_790,c_limit/image.jpg" alt="First game" />
 Evolution of audio in games: Silent games &gt; sine and square waves on hardware chips &gt; FM synthesis &gt; MIDI &gt; 8 bit <a href="https://en.wikipedia.org/wiki/Pulse-code_modulation">PCM</a> &gt; 16 bit PCM.</p>
@@ -126,9 +126,9 @@ Evolution of audio in games: Silent games &gt; sine and square waves on hardware
 
 <p><br /><br /><br /></p>
 
-<h2 id="project-management">Project Management</h2>
+<h2 id="project-management">project management</h2>
 
-<p><img src="https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res//assets/img//fb4de993e22034b76539da073ea8d35c/home-hero.png" alt="Trello" /></p>
+<p><img src="../assets/img/2018-10-25-game-audio-trello.jpg" alt="Trello" /></p>
 
 <p>When you work with game developers you might be asked to join a web-based project management application like <a href="https://trello.com/b/HUadsBaL/storm-brothers">Trello</a> or <a href="http://www.i-show-you.de/mantis/my_view_page.php">Mantis Bug Tracker</a>.</p>
 
@@ -152,7 +152,7 @@ Be there next Summer for networking and for adding games to your <a href="http:/
 
 <p><br /><br /><br /></p>
 
-<h2 id="jobs">Jobs</h2>
+<h2 id="jobs">jobs</h2>
 
 <ul>
   <li>create databases, bookmarks, …</li>
@@ -165,14 +165,14 @@ Be there next Summer for networking and for adding games to your <a href="http:/
 
 <p><br /><br /><br /></p>
 
-<h2 id="website">Website</h2>
+<h2 id="website">website</h2>
 
 <p>Online presence might be good for you when you freelance.  <br />
 <em>Shall we cover how to make a basic website for your work?</em></p>
 
 <p><br /><br /><br /></p>
 
-<h2 id="interesting">Interesting</h2>
+<h2 id="interesting">interesting</h2>
 
 <p><strong>The Role of Audio for Immersion in Games</strong> <br />
 “Immersion is considered to be one of the key factors making games worthy to play. The unity that seems to exist in the fact that many parties value this phenomenon is more apparent than real: there is a lot of dispute on the scope of immersion. Several classifications of immersion are compared for a better understanding of the nature of an immersive experience. The three‐dimensional SCI‐model by Ermi &amp; Mäyrä (2005) is considered as valuable representation of the multi‐dimensional character of immersion.” Read more about this <a href="http://captivatingsound.com/phd-thesis-captivating-sound-the-role-of-audio-for-immersion-in-games/">here</a>.</p>
@@ -181,9 +181,8 @@ Be there next Summer for networking and for adding games to your <a href="http:/
 <a href="http://gamessound.com/">Beep</a> is a documentary history of game sound, from the Victorian arcades to today. You can watch full interviews with game composers on this website was well <a href="http://gamessound.com/movie.html">here</a>.</p>
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.6669%;"><iframe src="https://player.vimeo.com/video/157076047?title=0&amp;byline=0&amp;portrait=0" style="order: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
-
-<p><strong>Composer Nick Ryan</strong> <br />
-<img src="http://www.fasterthansound.com/wp-content/uploads/2012/10/PV9A0785.jpg" alt="Nick Ryan" />
+<p><br />
+<strong>Composer Nick Ryan</strong> <br />
 Interesting BAFTA interview with Nick Ryan <a href="https://www.youtube.com/watch?v=Roa1wI3MS5M">here</a> and ‘Sound is Magic’ article on <a href="http://www.gamasutra.com/blogs/WinifredPhillips/20150818/251605/quotSound_is_Magicquot__Insights_for_the_Game_Music_Composer.php">Gamasutra</a>.</p>
 
 <p><strong>8-bit games</strong> <br />
@@ -191,7 +190,7 @@ If you get bored of making music, play some games from the past <a href="http://
 
 <p><br /><br /><br /></p>
 
-<h2 id="reading">Reading</h2>
+<h2 id="reading">reading</h2>
 
 <ul>
   <li>

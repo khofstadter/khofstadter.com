@@ -7,9 +7,10 @@ Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologi
 ## work
 
 <div class="tab">
-  organise by
-  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">time</button>
-  <button class="tablinks" onclick="openCity(event, 'categories')">categories</button>
+  organised
+  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">chronologically</button> or 
+  <button class="tablinks" onclick="openCity(event, 'categories')">by categories</button>
+  
 </div>
 
 <div id="time" class="tabcontent">

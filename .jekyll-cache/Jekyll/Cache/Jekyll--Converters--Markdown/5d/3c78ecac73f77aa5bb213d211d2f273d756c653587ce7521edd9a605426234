@@ -1,4 +1,4 @@
-I"<V<!--
+I"�U<!--
 measure ideas, smart,
 self assessment & peer assessment;
 make a gunt chart;
@@ -15,23 +15,13 @@ module evaluation form (do we now how to score high)
 -->
 
 <p>module code: MOD000600 <br />
-tutor: <a href="https://khofstadter.info">Krisztián Hofstädter</a> <br />
+module leader: <a href="https://khofstadter.info">Krisztián Hofstädter</a> <br />
 Tues 1-3pm (workshop), 3-4pm (tutorials) <br />
 Hel 040, Cambridge</p>
 
 <p><img src="/../assets/img/2011_01_17_strophic_variables_01.jpg" alt="" /></p>
 
-<p>shortcuts: <br />
-<a href="#assignments">assignments</a> <br />
-<a href="#syllabus">syllabus</a>: week <a href="#week1">1</a>  <a href="#week2">2</a>  <a href="#week3">3</a>  <a href="#week4">4</a>  <a href="#week5">5</a>  <a href="#week6">6</a>  <a href="#week7">7</a>  <a href="#week8">8</a>  <a href="#week9">9</a>  <a href="#week10">10</a>  <a href="#week11">11</a>  <a href="#week12">12</a> <br />
-<a href="#resources">resources</a> <br />
-<a href="https://canvas.anglia.ac.uk/courses/7561">canvas</a></p>
-
-<p><br /></p>
-
-<p><br /></p>
-
-<h2 id="current-student-repositories">current student repositories</h2>
+<h2 id="submission-examples">submission examples</h2>
 
 <ul>
   <li><a href="https://github.com/Alexiou981/sonicart">A</a></li>
@@ -44,8 +34,17 @@ Hel 040, Cambridge</p>
 
 <p><br /></p>
 
+<h2 id="shortcuts">shortcuts</h2>
+<p><a href="#assignments">assignments</a> <br />
+<a href="#syllabus">syllabus</a>: week <a href="#week1">1</a>  <a href="#week2">2</a>  <a href="#week3">3</a>  <a href="#week4">4</a>  <a href="#week5">5</a>  <a href="#week6">6</a>  <a href="#week7">7</a>  <a href="#week8">8</a>  <a href="#week9">9</a>  <a href="#week10">10</a>  <a href="#week11">11</a>  <a href="#week12">12</a> <br />
+<a href="#resources">resources</a> <br />
+<a href="https://canvas.anglia.ac.uk/courses/7561">canvas</a></p>
+
+<p><br /></p>
+
+<p><br /></p>
+
 <h2 id="introduction">introduction</h2>
-<p>~ from Canvas:</p>
 
 <blockquote>
   <p>This course involves the study of source recording, sonic manipulation and sonic installations. Although the course contains technical components, its focus is strictly aesthetic. A range of techniques will be examined, together with an investigation of current manifestations of Sonic Art in the UK and around the world, including installation art and bioacoustics.</p>
@@ -56,7 +55,7 @@ Hel 040, Cambridge</p>
 </blockquote>
 
 <blockquote>
-  <p>Students will provide their collected exercises in a portfolio including a critical evaluation placing the student’s work in the context of current trends in sonic art as well as providing a basis for the students own criteria and judgement.</p>
+  <p>Students will provide their collected exercises in a portfolio including a critical evaluation placing the student’s work in the context of current trends in sonic art as well as providing a basis for the students own criteria and judgement. ~ from Canvas</p>
 </blockquote>
 
 <p><br /></p>
@@ -66,7 +65,7 @@ Hel 040, Cambridge</p>
 <p><a name="assignments"></a></p>
 <h2 id="assignments">assignments</h2>
 
-<p>Deadline: (week 11) Friday 12 April 2pm;</p>
+<p>deadline: (week 11) Fri 12 April 2pm</p>
 
 <h3 id="what-to-submit">what to submit?</h3>
 
@@ -114,30 +113,30 @@ Hel 040, Cambridge</p>
 <h3 id="admin">admin</h3>
 
 <ul>
-  <li>choose deadline;</li>
-  <li>resources added;</li>
-  <li>send last years material to email addresses;</li>
+  <li>choose deadline</li>
+  <li>resources added</li>
+  <li>send last years material to email addresses</li>
 </ul>
 
 <h3 id="what-is-sonic-art">what is sonic art</h3>
 <ul>
-  <li>‘History of Sound Art’ notes;</li>
-  <li>what is art? discuss notes for <a href="#turner">The Turner Price</a> documentary, <a href="#forum1">The Forum: The Real and the Virtual</a>;</li>
+  <li>‘History of Sound Art’ notes</li>
+  <li>what is art? discuss notes for <a href="#turner">The Turner Price</a> documentary, <a href="#forum1">The Forum: The Real and the Virtual</a></li>
 </ul>
 
 <h3 id="your-progress">your progress</h3>
 
 <ul>
-  <li>your projects/ideas (discussing initial ideas with GitHub logs);</li>
-  <li>logbook syntax ideas (<a href="https://github.com/krisztian-hofstadter-tedor/bcmi">1</a>,<a href="https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider">2</a>), logical, consistent, useful;</li>
-  <li>interested in soundwalks, soundscapes, nature? If yes, research R. Murray Schafer (e.g. <a href="https://www.youtube.com/embed/rOlxuXHWfHw">youtube</a>);</li>
+  <li>your projects/ideas (discussing initial ideas with GitHub logs)</li>
+  <li>logbook syntax ideas (<a href="https://github.com/krisztian-hofstadter-tedor/bcmi">1</a>,<a href="https://github.com/krisztian-hofstadter-tedor/OpenBCI-SuperCollider">2</a>), logical, consistent, useful</li>
+  <li>interested in soundwalks, soundscapes, nature? If yes, research R. Murray Schafer (e.g. <a href="https://www.youtube.com/embed/rOlxuXHWfHw">YouTube</a>)</li>
 </ul>
 
 <h3 id="class-notes">class notes</h3>
 <ul>
-  <li>recording of bird sounds and playing it back to them;</li>
-  <li>alarms sounds of mobile phones (audio display);</li>
-  <li>soundscapes, nature sounds;</li>
+  <li>recording of bird sounds and playing it back to them</li>
+  <li>alarms sounds of mobile phones (audio display)</li>
+  <li>soundscapes, nature sounds</li>
 </ul>
 
 <p><br /></p>
@@ -173,8 +172,8 @@ Hel 040, Cambridge</p>
       <li>e.g. does art or sonic art need to be timely?</li>
       <li>e.g. does art or sonic art need to be site specific?</li>
       <li>who decides what is art, what is sonic art?</li>
-      <li>relationship between art &amp; science (<a href="https://www.differencebetween.com/difference-between-science-and-vs-art/">1</a>, <a href="https://blogs.nottingham.ac.uk/artsmatters/2012/03/06/art-versus-science/">2</a> )(art of science?);</li>
-      <li>sonification and musification in general;</li>
+      <li>relationship between art &amp; science (<a href="https://www.differencebetween.com/difference-between-science-and-vs-art/">1</a>,<a href="https://blogs.nottingham.ac.uk/artsmatters/2012/03/06/art-versus-science/">2</a>)(art of science?)</li>
+      <li>sonification and musification in general</li>
     </ul>
   </li>
 </ul>
@@ -182,9 +181,9 @@ Hel 040, Cambridge</p>
 <p>task:</p>
 
 <ul>
-  <li>watch projects from previous CMT years (Dropbox);</li>
-  <li>measure / categorise them;</li>
-  <li>start with adding keywords;</li>
+  <li>watch projects from previous CMT years (Dropbox)</li>
+  <li>measure / categorise them</li>
+  <li>start with adding keywords</li>
   <li>add projects from the resources (url and pdf links)</li>
 </ul>
 
@@ -207,12 +206,6 @@ Hel 040, Cambridge</p>
 <p><a name="week5"></a></p>
 <h3 id="week-5">week 5</h3>
 <h4 id="your-progress-2">your progress</h4>
-<ul>
-  <li><a href="https://github.com/Alexiou981/sonicart">Alex</a></li>
-  <li><a href="https://github.com/endaksi1/sonicart/">Yannis</a></li>
-  <li><a href="https://github.com/amatsahzac/sonicart">Zac</a></li>
-  <li><a href="https://github.com/jr-1625607">James</a></li>
-</ul>
 
 <h4 id="art-of-coffee">art of coffee</h4>
 <ul>
@@ -254,10 +247,10 @@ Hel 040, Cambridge</p>
 <p>3) use the keywords to look for references, ideas, books, academic
 papers, in</p>
 
-<p>3.1. google scholar;
-3.2. the online library;
+<p>3.1. google scholar
+3.2. the online library
 3.3. the university library (the real/physical one with books you
-can touch and smell);</p>
+can touch and smell)</p>
 
 <p>4) look through all Richard’s material I sent you a few weeks ago.</p>
 
@@ -275,7 +268,9 @@ can touch and smell);</p>
 
 <p><a name="week7"></a></p>
 <h3 id="week-7">week 7</h3>
-<h4 id="your-progress-4">your progress</h4>
+<ul>
+  <li>demonstrate your progress</li>
+</ul>
 
 <p><br /></p>
 
@@ -283,22 +278,29 @@ can touch and smell);</p>
 
 <p><a name="week8"></a></p>
 <h3 id="week-8">week 8</h3>
-<h3 id="a-github-pages-html-and-markdown-syntax">A. GitHub Pages, Html and Markdown Syntax</h3>
+<h3 id="a-github-pages-html-and-markdown-syntax">A. GitHub Pages, HTML and Markdown Syntax</h3>
 
 <ol>
   <li>Understand what a repository in GitHub is.</li>
   <li>Understand how to turn a repository into GitHub pages i.e. static website.</li>
   <li>Understand the difference between forking, cloning and downloading a repository.</li>
-  <li>Understand the basics of Markdown and how it relates to html.</li>
+  <li>Understand the basics of Markdown and how it relates to HTML.</li>
   <li>Understand the relevance of a .css file for an aesthetic layout.</li>
   <li>Customise the style and arrangement of their one pager website.</li>
 </ol>
 
 <p>In more detail <a href="https://github.com/krisztian-hofstadter-tedor/simple-one-pager-website">here</a>.</p>
 
-<h3 id="b-your-progress">B. Your progress</h3>
+<h3 id="b-demonstrate-your-progress">B. demonstrate your progress</h3>
 
-<p>Short presentation with logbooks.</p>
+<ul>
+  <li>short presentation with logbooks</li>
+</ul>
+
+<h3 id="c-most-important-advice">C. most important advice</h3>
+<p>The assignments should be considered as your own projects, not something you have to do for me or the university. Follow the rules outlined in the module guide, assessment criteria, etc., however, please keep in mind that the outcomes of your assignments can (and should) become part of your professional portfolios, which you later can use for networking, job hunting, etc.</p>
+
+<p>Due to different student experience and expectations, this outline can be subject to change. Detailed notes for each week will be added gradually to this website.</p>
 
 <p><br /></p>
 
@@ -306,7 +308,9 @@ can touch and smell);</p>
 
 <p><a name="week9"></a></p>
 <h3 id="week-9">week 9</h3>
-<h4 id="your-progress-5">your progress</h4>
+<ul>
+  <li>demonstrate your progress</li>
+</ul>
 
 <p><br /></p>
 
@@ -314,7 +318,9 @@ can touch and smell);</p>
 
 <p><a name="week10"></a></p>
 <h3 id="week-10">week 10</h3>
-<h4 id="your-progress-6">your progress</h4>
+<ul>
+  <li>demonstrate your progress</li>
+</ul>
 
 <p><br /></p>
 
@@ -332,7 +338,7 @@ can touch and smell);</p>
 
 <h3 id="easter-break">easter break</h3>
 <ul>
-  <li>focus on your major project;</li>
+  <li>focus on your major project</li>
 </ul>
 
 <p><br /></p>
@@ -342,7 +348,7 @@ can touch and smell);</p>
 <p><a name="week12"></a></p>
 <h3 id="week-12">week 12</h3>
 <ul>
-  <li>celebration;</li>
+  <li>celebration</li>
 </ul>
 
 <p><br /></p>
@@ -389,29 +395,39 @@ can touch and smell);</p>
 
 <p>other ideas:</p>
 <ul>
-  <li>Cage: art has to imitate nature, its purposelessness;</li>
-  <li>Lucier: sound as wavelengths;</li>
-  <li>not all sound art makes sound;</li>
-  <li>modes of sound art: soundwalk, soundscape, installation, film and video;</li>
+  <li>Cage: art has to imitate nature, its purposelessness</li>
+  <li>Lucier: sound as wavelengths</li>
+  <li>not all sound art makes sound</li>
+  <li>modes of sound art: soundwalk, soundscape, installation, film and video</li>
   <li>visual art is everywhere, sound art is still not everywhere, why?</li>
-  <li>when we start listening differently, by shifting attention, we will design our own soundworld (Schafer);</li>
-  <li>psychical space, virtual and psychological space;</li>
+  <li>when we start listening differently, by shifting attention, we will design our own soundworld (Schafer)</li>
+  <li>psychical space, virtual and psychological space</li>
 </ul>
 
 <p><br /></p>
 
 <p><a name="turner"></a></p>
-<h3 id="the-turner-price">The Turner Price</h3>
-<p>BBC documentary</p>
+<h3 id="the-turner-price-bbc-documentary">The Turner Price (BBC documentary)</h3>
 
-<p>from 1984; why was it started? is controversial good? private source cash; are artists in competition with each other? the best and the worst artist is the same in one year; arts’ power to change things; “art to exhibit and having it operate in the world” is important, not the price; art in social enterprice; when it started no one liked modern art, now (perhaps with the help of this price) people like it more;</p>
+<ul>
+  <li>from 1984</li>
+  <li>why was it started?</li>
+  <li>is controversial good?</li>
+  <li>private source cash</li>
+  <li>are artists in competition with each other?</li>
+  <li>the best and the worst artist is the same in one year.</li>
+  <li>arts’ power to change things.</li>
+  <li>“art to exhibit and having it operate in the world” is important, not the price</li>
+  <li>art in social enterprice</li>
+  <li>when it started no one liked modern art, now (perhaps with the help of this price) people like it more</li>
+</ul>
 
 <p>Link: <a href="https://href.li/?https://learningonscreen.ac.uk/ondemand/index.php/prog/0DDC0A12?bcast=122941568">BOB</a></p>
 
 <p><br /></p>
 
-<h3 id="a-history-of-art-in-three-colours">A History of Art in Three Colours</h3>
-<p>Part 3: White (BBC documentary)</p>
+<h3 id="a-history-of-art-in-three-colours-bbc-documentary">A History of Art in Three Colours (BBC documentary)</h3>
+<p>Part 3: White</p>
 
 <blockquote>
   <p>Dr James Fox explores how, in the hands of artists, the colours gold, blue and white have stirred emotions, changed behaviour and even altered the course of history. In the Age of Reason, it was the rediscovery of the white columns and marbles of antiquity that made white the most virtuous of colours. For flamboyant JJ Wickelmann and British genius Josiah Wedgwood, white embodied all the Enlightenment values of justice, equality and reason.</p>
@@ -434,17 +450,17 @@ can touch and smell);</p>
 <p><br /></p>
 
 <h3 id="christian-marclay">Christian Marclay</h3>
-<p>5 Minute Documentary</p>
+<p>5-minute documentary</p>
 
 <blockquote>
   <p>Marclay discusses his interest in unwanted sound, his use of turntables, early examples of his art and more recent pieces too.</p>
 </blockquote>
 
 <ul>
-  <li>turntable manipulation;</li>
-  <li>found sounds;</li>
-  <li>video edits;</li>
-  <li>sound art sculptures;</li>
+  <li>turntable manipulation</li>
+  <li>found sounds</li>
+  <li>video edits</li>
+  <li>sound art sculptures</li>
 </ul>
 
 <blockquote>
@@ -457,9 +473,9 @@ can touch and smell);</p>
 
 <ul>
   <li>visualisation of sound (an abstract image of sound);</li>
-  <li>synthesis;</li>
-  <li>frequencies outside the human hearing scope;</li>
-  <li>error/glitch could be source of inspiration;</li>
+  <li>synthesis</li>
+  <li>frequencies outside the human hearing scope</li>
+  <li>error/glitch could be source of inspiration</li>
   <li>machines become more like humans, humans become more like machines</li>
 </ul>
 
@@ -489,16 +505,16 @@ can touch and smell);</p>
 <p>Ideas:</p>
 
 <ul>
-  <li>freezing time (an occasion) and exhibiting it;</li>
+  <li>freezing time (an occasion) and exhibiting it</li>
   <li>how important is the present of the viewer?</li>
-  <li>artists playing mini god;</li>
-  <li>mixture of fearful and beautiful in an artwork (the sublime beauty in a volcano eruption);</li>
-  <li>chaos and order, mathematics is poetry;</li>
-  <li>3d printing;</li>
-  <li>music is mathematics for the ear;</li>
-  <li>real vs virtual;</li>
-  <li>human’s deepest property is imagination;</li>
-  <li>AI;</li>
+  <li>artists playing mini god</li>
+  <li>mixture of fearful and beautiful in an artwork (the sublime beauty in a volcano eruption)</li>
+  <li>chaos and order, mathematics is poetry</li>
+  <li>3d printing</li>
+  <li>music is mathematics for the ear</li>
+  <li>real vs virtual</li>
+  <li>human’s deepest property is imagination</li>
+  <li>AI</li>
 </ul>
 
 <p><br /></p>
@@ -513,20 +529,10 @@ can touch and smell);</p>
 </blockquote>
 
 <ul>
-  <li>auditory imaginary (person specific, past experience);</li>
-  <li>5 + more senses, modalities interact in many different ways;</li>
-  <li>sound walks;</li>
+  <li>auditory imaginary (person specific, past experience)</li>
+  <li>5 + more senses, modalities interact in many different ways</li>
+  <li>sound walks</li>
 </ul>
 
 <p>Link: <a href="https://href.li/?https://learningonscreen.ac.uk/ondemand/index.php/prog/08A29957?bcast=115028087">BOB</a></p>
-
-<hr />
-<hr />
-
-<p><br /></p>
-
-<h3 id="most-important-advice">most important advice</h3>
-<p>The assignments should be considered as your own projects, not something you have to do for me or the university. Follow the rules outlined in the module guide, assessment criteria, etc., however, please keep in mind that the outcomes of your assignments can (and should) become part of your professional portfolios, which you later can use for networking, job hunting, etc.</p>
-
-<p>Due to different student experience and expectations, this outline can be subject to change. Detailed notes for each week will be added gradually to this website.</p>
 :ET
