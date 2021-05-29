@@ -1,9 +1,10 @@
 ---
 title: focus trial
 categories: music
-tags: [music, release, programming, bcmi]
-comment: true
+tags: [music, music release, programming, SuperCollider]
+comment: false
 short: A musical release featuring compositions made with the Focus prototype, a SuperCollider sequencer generating random musical pattern.
+new-date: Sep 2013
 ---
 Compositions made with _Focus_ prototype, a sequencer capable of generating random musical patterns: pitch, volume, duration of sound and duration between sounds. The sequencer was developed in SuperCollider 3.6 for my MA dissertation titled 'The development of software for auditory display incorporating principles of generative music and neuro-feedback training'.
 

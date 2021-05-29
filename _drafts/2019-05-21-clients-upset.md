@@ -4,7 +4,7 @@ title: clients
 categories: commication
 tags: [notes]
 author: tEdör
-comment: true
+comment: false
 short: how to deal with clients
 ---
 

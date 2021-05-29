@@ -2,8 +2,9 @@
 title: thoughts on game audio
 categories: writing
 tags: [writing, music, game audio, generative, 3d sound]
-comment: true
+comment: false
 short: Why make audio for games? What does audio in films and games do?
+new-date: Oct 2018
 ---
 This article was written as presentation outline.
 
@@ -27,7 +28,7 @@ performing, composing for films/games, making audio libraries, sound recording a
 
 <br><br><br>
 
-## film vs game music
+### film vs game music
 
 _What's the difference between audio for films and audio for games?_
 
@@ -39,7 +40,7 @@ _What's the difference between audio for films and audio for games?_
 
 <br><br><br>
 
-## different categories
+### different categories
 
 ![some games](../assets/img/2018-10-25-game-audio-florian-olivo-Mf23RF8xArY-unsplash.jpg)
 
@@ -53,7 +54,7 @@ Playing games makes you aware of the audio conventions to follow, or break. Now 
 
 <br><br><br>
 
-## be organised
+### be organised
 
 (Probably even more than when working on film projet.)
 
@@ -64,7 +65,7 @@ Playing games makes you aware of the audio conventions to follow, or break. Now 
 
 <br><br><br>
 
-## your jobs
+### your jobs
 
 * specialised audio job e.g. composing (often AAA) vs everything from foley to mastering (often indie game)
 * in-house (often AAA) vs freelance/contract
@@ -77,9 +78,9 @@ Concentrate on what you want to do, but if you are comfortable with technology, 
 
 <br><br><br>
 
-## learning new technologies
+### learning new technologies
 
-### spacial sound
+#### spacial sound
 
 ![Binaural head](http://farm5.static.flickr.com/4019/4313481359_0882feecae_o.jpg)
 
@@ -91,7 +92,7 @@ Concentrate on what you want to do, but if you are comfortable with technology, 
 
 Get to know different systems - it will add to your skill-set!
 
-### audio games
+#### audio games
 
 Use headphones with the video to fully *immerse* in it.
 
@@ -107,7 +108,7 @@ Think about VR, motion detection, ...
 
 <br><br><br>
 
-## history and examples of game audio
+### history and examples of game audio
 
 ![First game](http://media.vanityfair.com/photos/54cbffcefde9250a6c40fc92/master/w_790,c_limit/image.jpg)
 Evolution of audio in games: Silent games > sine and square waves on hardware chips > FM synthesis > MIDI > 8 bit [PCM](https://en.wikipedia.org/wiki/Pulse-code_modulation) > 16 bit PCM.
@@ -116,7 +117,7 @@ Short history of game music [here](http://captivatingsound.com/alternative-histo
 
 <br><br><br>
 
-## project management
+### project management
 
 ![Trello](../assets/img/2018-10-25-game-audio-trello.jpg)
 
@@ -130,7 +131,7 @@ Benefits of using a PM:
 
 <br><br><br>
 
-## Brain's Eden, Cambridge
+### Brain's Eden, Cambridge
 ![Brain's Eden 2015](http://gradsingames.com/wp-content/uploads/2015/07/WP_20150629_14_42_06_Pro.jpg)
 Be there next Summer for networking and for adding games to your [showreel](http://127.0.0.1:4000/audioshowreel2014/).
 
@@ -140,7 +141,7 @@ Please email Brain's Eden to express your interest in going as an audio person: 
 
 <br><br><br>
 
-## jobs
+### jobs
 
 * create databases, bookmarks, ...
 * monitor game developer's websites
@@ -150,7 +151,7 @@ Please email Brain's Eden to express your interest in going as an audio person: 
 
 <br><br><br>
 
-## website
+### website
 
 Online presence might be good for you when you freelance.    
 _Shall we cover how to make a basic website for your work?_
@@ -158,7 +159,7 @@ _Shall we cover how to make a basic website for your work?_
 
 <br><br><br>
 
-## interesting
+### interesting
 
 **The Role of Audio for Immersion in Games**   
 "Immersion is considered to be one of the key factors making games worthy to play. The unity that seems to exist in the fact that many parties value this phenomenon is more apparent than real: there is a lot of dispute on the scope of immersion. Several classifications of immersion are compared for a better understanding of the nature of an immersive experience. The three‐dimensional SCI‐model by Ermi & Mäyrä (2005) is considered as valuable representation of the multi‐dimensional character of immersion." Read more about this [here](http://captivatingsound.com/phd-thesis-captivating-sound-the-role-of-audio-for-immersion-in-games/).
@@ -176,7 +177,7 @@ If you get bored of making music, play some games from the past [here](http://ww
 
 <br><br><br>
 
-## reading
+### reading
 
 * Collins, Karen. *Game Sound: An Introduction to the History, Theory, and Practice of Video Game Music and Sound Design*. Cambridge: MIT Press, 2008
 

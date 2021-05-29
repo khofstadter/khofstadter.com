@@ -1,12 +1,13 @@
 ---
 title: secret place and remixes
 categories: music
-tags: [music, release]
-comment: true
+tags: [music, music release, electronic dance music, remix]
+comment: false
 short: A music release interpreting stories from my 'secret place', a special state of mind.
+new-date: Jun 2013
 ---
 
- Secret Place is a safe place, which I have discovered around the age of 18 in Somberek, the village where I grew up. The first attempt to express insights discovered in this state of mind was manifested in poetry (Titkos hely, 2005). This release is a musificaion of this state of mind.
+ My 'secret place' is an ASC that I discovered at the age of 18 in Somberek, the village where I grew up. The first attempt to express insights from the ASC were manifested in the poem '[titkos hely'](https://poet.hu/vers/27294) in 2005. This 'secret place ' music release takes the experiment, the interpretation further with musificaion.
 
 <div style="max-width: 700px;"><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 100%; padding-top: 271px;"><iframe src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true//" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div></div>
 

@@ -1,9 +1,10 @@
 ---
 title: stormbrothers
 categories: music
-tags: [music, release, game music, programming]
-comment: true
+tags: [music, music release, game music, programming, SuperCollider]
+comment: false
 short: A fusion of celtic & electronic music for the award winning platform game, Stormbrothers.
+new-date: Aug 2013
 ---
 Melody patterns are generated algorithmically with Focus, a sequencer made in SuperCollider, then sent to Logic to trigger samples and sythesisers.
 
@@ -11,9 +12,10 @@ Melody patterns are generated algorithmically with Focus, a sequencer made in Su
 
 credits: cover art by [Hendrik Coppens](https://www.artstation.com/crowdsmurf)   
 tools: Logic, SuperCollider, Jack Pilot
-<br>
 
-### Stormbrothers Game
+<br><br>
+
+### the game
 
 A mobile game about two Viking brothers on their quest to become Viking men. Swipe your way around obstacles and up the mountain. Prepare to face the challenges of the magical Nordic mountain! The game is playable on PC and Android and is under further development.
 

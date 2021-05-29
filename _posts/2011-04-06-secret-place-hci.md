@@ -1,9 +1,10 @@
 ---
 title: secret place hci
 categories: music
-tags: [bci, music, programming, Max, Jitter, infrared sensor]
-comment: true
+tags: [bci, music, programming, Max, infrared sensor]
+comment: false
 short: A human computer interface with infrared sensors controls parameters of a soundscape e.g. spacialisation and instrument volume.
+new-date: Apr 2011
 ---
 <br>
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
@@ -23,8 +24,9 @@ wistiaEmbed = Wistia.embed("irfrbu2ryd", {
 ![spraying](/../assets/img/2011-04-06-secret-place-03.jpg)
 
 tools: Arduino, infrared sensors, Max/MSP
-<br>
-## related writing
 
-* Documentation for project - Secret Place (0.9) (<a href="/../assets/doc/K_Hofstadter_2010_Secret_Place_Project.pdf">pdf</a>)    
-* Attention! Attention! The use of 'focus & attention' in sonic art (<a href="/../assets/doc/K_Hofstadter_2010_attention_attention_the_use_of_focus_and_ attention_in_sonic_art.pdf">pdf</a>)
+<br>
+
+## related writing
+- Documentation for project - Secret Place (0.9) (<a href="/../assets/doc/K_Hofstadter_2010_Secret_Place_Project.pdf">pdf</a>)    
+- Attention! Attention! The use of 'focus & attention' in sonic art (<a href="/../assets/doc/K_Hofstadter_2010_attention_attention_the_use_of_focus_and_ attention_in_sonic_art.pdf">pdf</a>)

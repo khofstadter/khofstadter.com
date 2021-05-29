@@ -4,16 +4,17 @@ layout: default
 <header class="post-header">
   <h2>{{ page.title }}</h2>
     {% if page.tags[0] != "ongoing" %}
-    {{ page.date | date: "%-d %B %Y"}}
+    <!-- {{ page.date | date: "%-d %B %Y"}} -->
     {% else %}
     since: {{ page.date | date: "%-d %B %Y"}}
   {% endif %}
+  {{ page.short }}
+  <br><br>
+  <div class="tags">time:  {{ page.new-date }}</div>
+  <br>
   <div class="tags">tags: {{ page.tags | join: ", "  }}</div>
-
 </header>
 <br>
-{{ page.short }}
-<br><br>
 {{ content }}
 {% if page.comment %}
 <br><br>

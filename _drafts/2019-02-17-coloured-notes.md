@@ -5,7 +5,7 @@ permalink: coloured-notes
 categories: learning
 tags: [notes]
 author: tEdör
-comment: true
+comment: false
 ---
 
 

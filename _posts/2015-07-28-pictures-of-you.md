@@ -1,9 +1,10 @@
 ---
 title: pictures of you
 categories: music
-tags: [music, theatre, video, photo]
-comment: true
+tags: [music, theatre, sound-design, video, photography]
+comment: false
 short: A music release featuring compositions for a theatre play. 
+new-date: July 2015
 ---
 > Inspired by the ‘mental imagery’, emotion and the study and treatment of bipolar disorder, _Pictures of You_ presents the intriguing meeting of two friends after many years apart. Full of unexpected lightness, warmth and love, the play explores the challenge of recalling the past and picturing the future… ~Menagerie
 

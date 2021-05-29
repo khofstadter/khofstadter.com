@@ -5,7 +5,7 @@ permalink: /how-to-make-a-website-with-github-and-jekyll/
 categories: teaching
 tags: [teaching]
 author: tEdör
-comment: true
+comment: false
 ---
 
 <!--

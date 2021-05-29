@@ -2,7 +2,7 @@
 {% for category in sorted_cats %}
 {% assign first_loop = forloop.index %}
 {% assign sorted_posts = category[1] | reversed %}
-<h3 id="{{category[0] | uri_escape | downcase }}">{{category[0]}}</h3>
+<h3 id="{{category[0] | uri_escape | downcase }}"><em>{{category[0]}}</em></h3>
 
 <form onsubmit='return false'>
   <ul class="lists">
@@ -13,7 +13,7 @@
     {% endif %}
     <li>
       <input id="node3++{{ first_loop }}++{{ forloop.index }}" name='node' class='node' type="radio">
-      <label for="node3++{{ first_loop }}++{{ forloop.index }}" data-idx='3++{{ first_loop }}++{{ forloop.index }}'>{{ post.title }}</label>
+      <label for="node3++{{ first_loop }}++{{ forloop.index }}" data-idx='3++{{ first_loop }}++{{ forloop.index }}'><a href = "URL"></a>{{ post.title }}</a></label>
       <ul>
         <li>
         <div class="date"> {{ post.date | date: "%F" }}</div>

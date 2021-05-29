@@ -2,15 +2,15 @@
 title: short history of film music
 categories: writing
 tags: [writing, music, history, film music, silent Films, huxley, chaplin]
-comment: true
+comment: false
 short: To find inspiration and examples of good practice, we briefly investigate the moving image culture in historical context with examples of silent films, talkies, studio systems and important musical styles.
-
+new-date: Oct 2018
 ---
 To find inspiration and examples of good practice, we briefly investigate the moving image culture in historical context with examples of silent films, talkies, studio systems and important musical styles.
 
 <br><br><br>
 
-## Summary
+### summary
 
 * Movies are storytelling tools. With sound (depending on genre) the stories can be more immersive then without.
 * First there were films without any music, then music played by live musician and later audio was recorded and played in sync with the film.
@@ -20,14 +20,14 @@ To find inspiration and examples of good practice, we briefly investigate the mo
 <br>
 <br>
 
-## I. Silent Films
-### Beggining of the 20th Century
+### I. silent films
+#### beginning of the 20th Century
 
 ![[ add: picture: silent films with live music ]](https://rilm.files.wordpress.com/2013/02/silent-film-orchestra.jpg)
 
 * Silent films are not *really* silent, music, that wasn't specifically composed for the film was played by musicians live in the theatres.
 
-> At first, the music that went with these films was taken from anywhere, classical favourites, popular songs, folk song or cafe music. There was little or no attempt to give the music a dramatic importance, it was there to enliven the audience's experience. (Davis, 2010, p5)
+> At first, the music that went with these films was taken from anywhere, classical favorites, popular songs, folk song or cafe music. There was little or no attempt to give the music a dramatic importance, it was there to enliven the audience's experience. (Davis, 2010, p5)
 
 * Big cinemas' had orchestras, small ones maybe only a piano player.
 
@@ -43,22 +43,22 @@ To find inspiration and examples of good practice, we briefly investigate the mo
 <br>
 <br>
 
-## II. Technology for Synchronised Audio   
+### II. technology for synchronised audio   
 Technology advanced and allowed the *marriage of sight and sound*.
 
-### Phonograph
+#### phonograph
 
 * Frenchman Auguste Baron uses Edison's phonograph, also called gramophone to synchronise sound with picture in 1896. Manual sync, not perfect. The problems are, sync issue and amplitude.
 
-### Tri-Ergon
+#### tri-ergon
 
 * In 1919, German scientist manage to record audio waves to electricity. Now audio is recorded in sync with the film, but still not loud enough.
 
-### Audion Vacuum Tube
+#### audion vacuum tube
 
 * Lee Dee Forest invents optical sound with the Audion vacuum tube for film. This can amplify the Tri-Ergon sytem. Success! There were no feature films made, just short films. Further info [here](https://youtu.be/-uu4SIlPxh0?t=51s) `>3.30`and [here](https://www.youtube.com/watch?v=t5J8AwkOgQM&list=UU96X8TBv9xfEH4v5HOGWo-w&index=1&feature=plcp).
 
-### Vitaphone and Talkies
+#### vitaphone and talkies
 
 * All studios were doing good business with silent movies, but not Warner Brothers. As an experiment they incorporated sound and it turned out to be a great success. First, they screened [Don Juan](http://www.tcm.com/mediaroom/video/961035/Don-Juan-Movie-Clip-It-s-Death-To-Defy-The-Borgia.html) with synchronised sound effects and music, then [Jazz Singer](https://www.youtube.com/watch?v=j48T9BoKxlI), with (some) synchronised dialogue as well. WB used the Vitaphone by Western Electric instead of Forest's Audion as it provided better sound quality. A vitaphone in essence a record player syncronised to film. More [here](https://en.wikipedia.org/wiki/Vitaphone).
 
@@ -66,9 +66,9 @@ The first movies where people were talking are called talking pictures or *talki
 
 ---
 
-*Interesting*:
+*interesting*
 
-![Pantomime](http://www.frankjeffreys.com/mime.jpeg)
+![Pantomime](../assets/img/2018-10-18-short-history-of-film-music-pantomime.jpg)
 
 Some film-makers refused to make talkies because:
 
@@ -86,13 +86,13 @@ Also, [Aldous Huxley](https://www.youtube.com/watch?v=3TQZ-2iMUR0), author of Br
 
 ---
 
-### Dubbing
+#### dubbing
 
-Rercording technology developed to allow good quality sound to be recorded separately to the film. It is called *dubbing* when music, dialogue and sound effects are mixed together.
+Recording technology developed to allow good quality sound to be recorded separately to the film. It is called *dubbing* when music, dialogue and sound effects are mixed together.
 
 > This new technology [dubbing] made the process of including music in films much more flexible and less expensive, and by the early 1930s, directors and producers began to accept that the film's underscore was a critical component.  (Davis, 2010, p15)   
 
-### Stereo
+#### stereo
 
 The stereo was introduced by Columbia's Studios in 1931 and surround sound in 1952 by Fred Waller's [Cinerama](http://www.in70mm.com/news/2012/cinerama_60/index.htm) system with 20th Century Fox. The surround system cost too much to be implemented in many cinemas, however, it has shown how much different the sound experience can be to a home TV setting.
 
@@ -124,7 +124,7 @@ Find reference to TV show vs cinema.
 
 ---
 
-*Interesting:*
+*interesting:*
 
 Music in films **'had to be seen'** as well. Producers felt a need to explain the music with some visuals so they made the music [diegetic](http://m4mi.tedor.info/resources/terminology). Music with a scene played in a cafe or nightclub was easily justifiable, however, a wandering violinist in a forest playing a romantic melody while the actors are kissing looks a bit weird to our eyes nowadays. Producers felt that the audience wouldn't accept music that is not visually present in the movie. Of course, this wasn't always the case, some directors were experimenting. Check the difference between diegetic and non-diegetic sound!
 
@@ -138,7 +138,7 @@ More on audio technology developments can be read in 'The History of Sound in th
 
 <br><br><br>
 
-## III. Film Music Between 1930 to 1950
+### III. film music between 1930 to 1950
 ![Golden Age Cinemas](http://sunnycv.com/steve/filmnotes//assets/img//PDRM4690b.jpg)
 This period of time is also called the 'Golden Age of Hollywood' and was the most productive time in the history of film - many films were made. The ideology of studios, "If it works, do it again!", was implemented in 'in-house music studios to streamline music production. Many people went to movies at least once a week in America, so there were many movies to be made. Often a composer had only five days to compose a whole score - today a film music composer could have about eight weeks for one movie.
 
@@ -155,7 +155,7 @@ An [example](https://youtu.be/7vThuwa5RZU?t=42s) of moving from diegetic to nond
 
 <br><br><br>
 
-## IV. Film Music between 1940 - 1975
+### IV. film music between 1940 - 1975
 ![Old TV with family](http://static5.businessinsider.com/image/5602f8bebd86ef1c008bc880-1190-625/the-number-of-people-watching-tv-is-falling-off-a-cliff.jpg)
 
 Producers introducing contemporary classical composers e.g. Stravinsky, Bartók, Schönberg to their films. There were more experimentations with dissonance, atonality, popular, jazz and rock ideas.
@@ -208,13 +208,13 @@ Clip [here](https://www.youtube.com/watch?v=9K_xTQA8Wok&list=PLMDordv5pDT7ezTgT0
 
 <br><br><br>
 
-## V. Film Music Between 1975 - Today
+### V. film music between 1975 - today
 
 ![Multi-track recording](https://soundofthehound.files.wordpress.com/2011/05/trident-studio-a1.jpg)
 
 <br><br><br>
 
-### Film Music from 1970-1980
+#### film music from 1970-1980
 
 * Multitrack recording and overdubbing made life easier and provided room for creativity.
 
@@ -244,7 +244,7 @@ Films with interesting sound:
 <br>
 <br>
 
-## Film Music from 1980-2000
+### film music from 1980-2000
 
 * The use of synthesizers becomes popular (and blending them with traditional sounds).
 * Pop influenced orchestral scores.
@@ -266,7 +266,7 @@ To extend
 <br>
 <br>
 
-## Film Music after 2000
+### film music after 2000
 
 - more composers can afford a studio at home;  
 - MIDI mockups can be of good sounding quality;
@@ -277,7 +277,7 @@ _to be continued..._
 <br>
 <br>
 
-## reference
+### reference
 
 * Chion, M,. 1994. Audio-Vision, Sound on Screen, Columbia University Press.
 * Copland, A., 2002. What to Listen for in Music. Signet Classic.
@@ -287,8 +287,12 @@ _to be continued..._
 
 <br><br><br>
 
-## Interesting
+### interesting
 An Audio Timeline ([link](http://www.aes.org/aeshc/docs/audio.history.timeline.html))
+
+### credits
+photo
+- https://unsplash.com/photos/m1dM7ZXvdMs
 
 <!--
 

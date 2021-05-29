@@ -5,7 +5,7 @@ permalink: /carlos-castaneda/
 categories: reading
 tags: [shamanism]
 author: tEdör
-comment: true
+comment: false
 ---
 
 ## Resources

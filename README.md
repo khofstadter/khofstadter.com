@@ -3,7 +3,7 @@ My personal website.
 
 ## todo
 - add filter to group posts where related links need to be displayed;
-- make it look a bit like https://djy.io/
+- flyers missing in MPA research organising post
 
 ## system
 - make new (clean) repo (that does not look cloned)
@@ -14,6 +14,9 @@ My personal website.
 - think about associate lecturing content
   - (move from subdomains of tedor.info);
   - in the past list have links to only outcomes as content/syllabus has change/got better so there should be only one page for each module;
+### music
+- add cherry blossoms to bandcamp
+- add 2nd theatre music to bancamp
 
 ## design
 - how do I organise quotes - each should have another file or can they be together and anchored?
