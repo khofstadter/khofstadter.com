@@ -13,7 +13,7 @@
     {% endif %}
     <li>
       <input id="node3++{{ first_loop }}++{{ forloop.index }}" name='node' class='node' type="radio">
-      <label for="node3++{{ first_loop }}++{{ forloop.index }}" data-idx='3++{{ first_loop }}++{{ forloop.index }}'><a href = "URL"></a>{{ post.title }}</a></label>
+      <label for="node3++{{ first_loop }}++{{ forloop.index }}" data-idx='3++{{ first_loop }}++{{ forloop.index }}'>{ post.title }}</label>
       <ul>
         <li>
         <div class="date"> {{ post.date | date: "%F" }}</div>
