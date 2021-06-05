@@ -13,7 +13,7 @@ there is also a file added in layouts: external.html and the posts amended accor
     {% endif %}
     <li>
     <input id="node1++{{ forloop.index }}" name='node' class='node' type="radio">
-        <label for="node1++{{ forloop.index }}" data-idx='1++{{ forloop.index }}'>{{ post.date | date: "%m/%Y" }} {{ post.title }}</label>
+        <label for="node1++{{ forloop.index }}" data-idx='1++{{ forloop.index }}'>{{ post.title }}</label>
       <ul>
         <li>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>{{post.categories[0]}}</em>
