@@ -1,6 +1,6 @@
 ---
 layout: external
-redirect_url: 
+redirect_url: https://khofstadter.info/assets/doc/Hofstadter-2019-strategies-for-making-assessment-practices-inclusive.pdf
 title: self and peer assessment tool and rationale 
 categories: writing
 tags: [writing, teaching]
