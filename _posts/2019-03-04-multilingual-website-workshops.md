@@ -12,6 +12,8 @@ new-date: March 2019; Summer 2020
 ### 2nd workshop (Summer 2020)
 Due to COVID19 restrictions, the second workshop was delivered as an online video tutorial. The outline can be found in the relevant [GitHub repository](https://github.com/krisztian-hofstadter-tedor/web00-website-making-tutorials) and the videos on [YouTube](https://www.youtube.com/playlist?list=PLRr9g36OjY6-xnDwUx4itRlh-xrlsszNZ). 
 
+The frame of the websites students used: [https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/](https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/)
+
 <br>
 
 ### 1st workshop (March 2019)
