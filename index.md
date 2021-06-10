@@ -2,7 +2,7 @@
 title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
-Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. This website informs you about my work. My cv is [here](https://khofstadter.info/assets/doc/KHofstader-CV-general-2019.pdf) (needs updating).
+Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. This website informs you about my work. My cv is [here](https://khofstadter.info/assets/doc/KHofstader-CV.pdf) (needs updating).
 
 <div class="tab">
   organised
