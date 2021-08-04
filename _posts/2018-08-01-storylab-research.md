@@ -2,7 +2,7 @@
 layout: external
 redirect_url: http://storylabresearch.com
 title: storylab research
-categories: [academic research]
-tags: [academic research, research assistant, web-design, wordpress]
+categories: [academic]
+tags: [academic, research assistant, web-design, wordpress]
 short: Besides events organising and audio post-production, my main task as a research assistant in the StoryLab Research Institute have been to edit, maintain and update our research website that I designed in 2018.
 ---
