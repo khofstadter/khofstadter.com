@@ -17,13 +17,6 @@ permalink: /:title/
 exclude:
 - CNAME
 
-plugins:
-  - jekyll-sitemap
-
-# Sitemap (see sitemap.xml)
-sitemap:
-  changefreq: weekly
-
 # Third-party services
 # Google tracking (Analytics and Google Tag Manager)
 google_analytics: UA-125796353-1

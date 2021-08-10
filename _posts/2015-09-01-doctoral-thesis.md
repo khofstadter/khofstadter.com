@@ -1,6 +1,6 @@
 ---
 layout: external
-redirect_url: https://bcmi.khofstadter.info/
+redirect_url: https://bcmi.khofstadter.com/
 title: doctoral thesis
 categories: [academic]
 tags: [ongoing, academic, bci, bcmi, eeg, music, musification, neuro-feedback, supercollider, programming]

@@ -1,6 +1,6 @@
 ---
 layout: external
-redirect_url: https://khofstadter.info/assets/doc/Hofstadter-2019-strategies-for-making-assessment-practices-inclusive.pdf
+redirect_url: https://khofstadter.com/assets/doc/Hofstadter-2019-strategies-for-making-assessment-practices-inclusive.pdf
 title: making assessment practices inclusive
 categories: writing
 tags: [writing, teaching]
