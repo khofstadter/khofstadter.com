@@ -73,7 +73,7 @@ table {
 
 /* customized by tedor*/
 body {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   max-width: 50em;
   padding: 0.5em 0.5em;
   color: #566b78;
