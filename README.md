@@ -1,8 +1,13 @@
 # khofstadter.com
 My personal website.
 
+## projects
 - add szinusz podcast
-- sync cv, website and linkedin
+
+## LinkedIn
+- sync with CV and website
+- maybe seperate EAD and StoryLab in Research Assistant job
+- ask recommendation from Paul, Shreepali
 
 ## system
 - sort out bundle, gemfile and sitemap issue
@@ -20,7 +25,6 @@ My personal website.
 <div id="tags" class="tabcontent"> 
 {% include index-tags.html %}
 </div> 
-
 
 -->
 
