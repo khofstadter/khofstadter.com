@@ -3,10 +3,12 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. This website informs you about my work. My cv is [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+Hello! I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian, living in England. This website informs you about my work.
+
+<br>
 
 <div class="tab">
-  organised
+  Projects organised
   
   <button class="tablinks" onclick="openCity(event, 'categories')">by main theme</button>
   or 
@@ -29,13 +31,12 @@ Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologi
 <div id="categories" class="tabcontent">
   {% include index-cat.html %}
 </div>
-
-
 <br>
-
-Contact me on kris[at]khofstadter[dot]com.
-
-<br>
+My cv is [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
+<br><br>
+You can contact me on kris[at]khofstadter[dot]com
+<br><br>
+![Krisztián drinking tea](assets/img/khofstadter_by_balazs_kiss.jpg)<br> _photo by Balázs Kiss_
 
 <script>
 function openCity(evt, cityName) {
