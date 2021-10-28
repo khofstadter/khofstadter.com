@@ -1,5 +1,5 @@
 ---
-ayout: external
+layout: external
 redirect_url: https://www.gov.uk/european-structural-investment-funds/greater-cambridgeshire-greater-peterborough-region-of-learning-oc13s20p1783
 title: regions of learning consulting
 categories: [academic]
