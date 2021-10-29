@@ -1,6 +1,6 @@
 ---
 title: edm music production
-categories: [music]
+categories: [sound and music]
 tags: [ music, EDM]
 comment: false
 short: Techno, trance, experimental electronic dance music ... to finish sometime.
