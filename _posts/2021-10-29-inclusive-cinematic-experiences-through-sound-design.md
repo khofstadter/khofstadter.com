@@ -1,0 +1,8 @@
+---
+layout: external
+redirect_url: https://jatjournal.org/index.php/jat/article/view/154
+title: inclusive cinematic experiences through sound design
+categories: writing
+tags: [writing, enhancing audio description, accessibility]
+short: I co-edited this peer-reviewed journal paper for the AHRC funded Enhancing Audio Description project.  
+---
