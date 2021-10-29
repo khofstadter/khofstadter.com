@@ -1,6 +1,6 @@
 ---
 title: secret place and remixes
-categories: music
+categories: [music]
 tags: [music, music release, electronic dance music, remix]
 comment: false
 short: A music release interpreting stories from my 'secret place', a special state of mind.

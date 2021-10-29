@@ -1,6 +1,6 @@
 ---
 title: sensor technology projects
-categories: music
+categories: [music]
 tags: [music, programming, sonification, hand gestures, camera, generative, microsound, EEG, SuperCollider, Max]
 comment: false
 short: Three sensor technology projects using hand gestures and offline brainwave data to control sound textures. 

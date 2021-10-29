@@ -1,6 +1,6 @@
 ---
 title: violin exp
-categories: music
+categories: [music]
 tags: [music, music release, computer aided acoustic music, experimental]
 comment: false
 short: A music release with traditional instruments and electronica.

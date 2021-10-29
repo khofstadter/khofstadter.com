@@ -1,6 +1,6 @@
 ---
 title: acousmatic programming
-categories: music
+categories: [music]
 tags: [music, music release, experimental electronica, SuperCollider, Max]
 comment: false
 short: A music release featuring acousmatic music and experimental electronica.
