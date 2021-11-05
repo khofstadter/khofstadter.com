@@ -3,7 +3,7 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hello! I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian, living in England. This website informs you about my work.
+Hello! I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian, living in England. This website can inform you about my work.
 
 <br>
 
