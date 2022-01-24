@@ -15,6 +15,9 @@ My personal website.
 - do we need disqus?
 - add related links part to each post
 
+## filter
+- add on hold filter besides oingoing and past
+
 ## todo
 - add filter to group posts where related links need to be displayed;
 - flyers missing in MPA research organising post

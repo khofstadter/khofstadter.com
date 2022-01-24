@@ -1,6 +1,6 @@
 ---
 layout: external
-redirect_url: http://enhancingaudiodescription.com/people/
+redirect_url: https://enhancingaudiodescription.com/
 title: enhancing audio description
 categories: [sound and music]
 tags: [ongoing, music, academic, web design, wordpress, enhancing audio description]
