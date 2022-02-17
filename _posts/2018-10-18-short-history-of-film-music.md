@@ -1,7 +1,7 @@
 ---
 title: short history of film music
 categories: writing
-tags: [writing, music, history, film music, silent Films, huxley, chaplin]
+tags: [writing, music, history, film-music, silent-films, Huxley, Chaplin]
 comment: false
 short: To find inspiration and examples of good practice, we briefly investigate the moving image culture in historical context with examples of silent films, talkies, studio systems and important musical styles.
 new-date: Oct 2018

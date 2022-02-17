@@ -1,7 +1,7 @@
 ---
 title: multilingual website workshops
 categories: [teaching]
-tags: [teaching, website, translation, GitHub Pages, HTML, CSS, Jekyll]
+tags: [teaching, web-design, translation]
 author: tEdör
 comment: false
 short: I delivered two workshops on setting up a multilingual website with Jekyll, GitHub Pages and a WiredCraft theme at the University of Essex.

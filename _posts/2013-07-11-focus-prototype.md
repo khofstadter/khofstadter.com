@@ -1,7 +1,7 @@
 ---
 title: focus prototype
 categories: [sound and music]
-tags: [music, programming, bcmi, neurofeedback, neurosky, neurogame, SuperCollider]
+tags: [music, programming, BCMI, neurofeedback, NeuroSky, neurogame, SuperCollider]
 comment: false
 short: Focus (the prototype) is a musical game that by measuring real-time EEG data aims to help reduce stress. To reward the participant whenever a challenge is completed, the neurofeedback system generates or alters preset and generative musical expressions.
 new-date: Jul 2013

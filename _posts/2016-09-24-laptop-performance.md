@@ -1,7 +1,7 @@
 ---
 title: laptop performance
 categories: [teaching]
-tags: [teaching, music, performance, laptop]
+tags: [teaching, music, performance]
 comment: false
 short: A 15 credit module where students developed their knowledge of digital audio and traditional music theory by creating and performing their own musical works using the laptop computer as the main musical instrument.  
 new-date: Sep 2014 – Jun 2015

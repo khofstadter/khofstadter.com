@@ -1,7 +1,7 @@
 ---
 title: audio showreel 2014
 categories: [sound and music]
-tags: [music, film, games]
+tags: [music, movies, games]
 comment: false
 short: Two showreels featuring work for games and films.
 new-date: Jan 2014

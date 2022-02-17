@@ -1,7 +1,7 @@
 ---
 title: strophic variables
 categories: [sound and music]
-tags: [music, installation, event, programming, SuperCollider, Processing, ultrasonic sensor, LDR]
+tags: [music, installation, event, programming, SuperCollider, Processing, ultrasonic-sensor, LDR]
 comment: false
 short: Interactive sonic art installation using ultrasonic sensors and light dependent resistors to manipulate sound and visuals.
 new-date: Jan 2011

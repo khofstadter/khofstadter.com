@@ -1,7 +1,7 @@
 ---
 title: secret place hci
 categories: [sound and music]
-tags: [bci, music, programming, Max, infrared sensor]
+tags: [BCI, music, programming, Max, infrared-sensor]
 comment: false
 short: A human computer interface with infrared sensors controls parameters of a soundscape e.g. spacialisation and instrument volume.
 new-date: Apr 2011

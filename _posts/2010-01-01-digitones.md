@@ -1,7 +1,7 @@
 ---
 title: digitones
 categories: [sound and music]
-tags: [music, music release, computer aided acoustic music, experimental electronica]
+tags: [music, music-release, computer-aided-acoustic-music]
 comment: false
 short: Experimental electronica with traditional instruments influenced by the music of Steve Reich.
 new-date: Jan 2010

@@ -1,7 +1,7 @@
 ---
 title: photography
 categories: [visual art]
-tags: [visual art, photography]
+tags: [visual-art, photography]
 short: Examples of my photography.  
 new-date: 2006 – 2017
 ---

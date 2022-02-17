@@ -3,7 +3,7 @@ layout: external
 redirect_url: https://enhancingaudiodescription.com/
 title: enhancing audio description
 categories: [sound and music]
-tags: [ongoing, music, academic, web design, wordpress, enhancing audio description]
+tags: [ongoing, music, academic, web-design, WordPress, EAD]
 short: In this AHRC funded project, we seek to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences.
 ---
 <!--

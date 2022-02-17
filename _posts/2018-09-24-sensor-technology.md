@@ -1,7 +1,7 @@
 ---
 title: sensor technology
 categories: [teaching]
-tags: [teaching, hci, Arduino, SuperCollider, Max, Processing]
+tags: [teaching, academic, Arduino, SuperCollider, Max, Processing]
 short: A 15 credit module concentrating on aspects of technology that encourage live performance and audio manipulation, this module was designed to provide the knowledge and opportunity for students to create their own performances and sonic installations.
 new-date: Sep 2011 - Feb 2019
 ---

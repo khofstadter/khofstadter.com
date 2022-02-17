@@ -1,7 +1,7 @@
 ---
 title: focus trial +
 categories: [sound and music]
-tags: [music, music release, programming, SuperCollider]
+tags: [music, music-release, programming, SuperCollider]
 comment: false
 short: Stream of compositions made live with my Focus prototype, a SuperCollider sequencer generating random musical pattern.
 new-date: Dec 2013

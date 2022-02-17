@@ -1,7 +1,7 @@
 ---
 title: thoughts on game audio
 categories: writing
-tags: [writing, music, game audio, generative, 3d sound]
+tags: [writing, music, game-sound, surround-sound, project-management]
 comment: false
 short: Why make audio for games? What does audio in films and games do?
 new-date: Oct 2018

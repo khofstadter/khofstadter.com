@@ -1,7 +1,7 @@
 ---
 title: pictures of you
 categories: [sound and music]
-tags: [music, theatre, sound-design, video, photography]
+tags: [music, theatre, sound-design, film, photography]
 comment: false
 short: A music release featuring compositions for a theatre play. 
 new-date: July 2015

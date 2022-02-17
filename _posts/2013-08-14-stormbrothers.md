@@ -1,7 +1,7 @@
 ---
 title: stormbrothers
 categories: [sound and music]
-tags: [music, music release, game music, programming, SuperCollider]
+tags: [music, music-release, game-sound, programming, SuperCollider]
 comment: false
 short: A fusion of celtic & electronic music for the award winning platform game, Stormbrothers.
 new-date: Aug 2013

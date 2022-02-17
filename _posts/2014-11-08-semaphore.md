@@ -1,7 +1,7 @@
 ---
 title: semaphore
 categories: [visual art]
-tags: [visual art, audio-video production]
+tags: [visual-art, film]
 comment: false
 new-date: Aug 2014
 short: A cross-domain, multi-modal and experimental entertainment by Richard Hoadley.

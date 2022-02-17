@@ -1,7 +1,7 @@
 ---
 title: cambridge sustainable residency
 categories: [visual art]
-tags: [visual art, conceptial art, photography, event]
+tags: [visual-art, conceptial-art, photography, event]
 comment: false
 short: Conceptual art and photoreportage. 
 new-date: Apr 2014

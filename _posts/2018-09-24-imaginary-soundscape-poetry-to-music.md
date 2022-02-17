@@ -1,7 +1,7 @@
 ---
 title: imaginary soundscape - poetry to music
 categories: writing
-tags: [writing, music, imaginary soundscapes, imagination, compositional methods, listening types, meditation, states of mind]
+tags: [writing, music, imaginary-soundscapes, imagination, listening-types, meditation, states-of-mind]
 comment: false
 short: How does a landscape sound? How does a poem sound? A presentation outline with quick ideas for sonification and musification.
 new-date: Sep 2018

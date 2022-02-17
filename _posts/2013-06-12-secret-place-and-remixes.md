@@ -1,7 +1,7 @@
 ---
 title: secret place and remixes
 categories: [sound and music]
-tags: [music, music release, electronic dance music, remix]
+tags: [music, music-release, electronic-music, remix]
 comment: false
 short: A music release interpreting stories from my 'secret place', a special state of mind.
 new-date: Jun 2013

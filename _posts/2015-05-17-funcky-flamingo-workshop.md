@@ -1,7 +1,7 @@
 ---
 title: funky flamingo workshop
 categories: [teaching]
-tags: [teaching, video, photo, DVD, accessibility]
+tags: [teaching, film, photo, DVD, accessibility]
 comment: false
 short: An audio-video workshop for two members of the Cambridge based Funky Flamingo Club, an organisation for people with disabilities.
 new-date: Jun 2015

@@ -1,7 +1,7 @@
 ---
 title: synaesthesia and visual music
 categories: [writing]
-tags: [writing, music, synaesthesia, visual music]
+tags: [writing, music, synaesthesia, visual-music]
 comment: false
 short: Artists have been interested in translating visual information to sound and vica versa. Why do we (they) do this?
 new-date: Oct 2018

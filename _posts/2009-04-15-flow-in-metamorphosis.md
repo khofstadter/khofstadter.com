@@ -1,7 +1,7 @@
 ---
 title: flow in metamorphosis
 categories: [sound and music]
-tags: [music, music release, programming, SuperCollider]
+tags: [music, music-release, programming, SuperCollider]
 comment: false
 short: A music release with alternative music and sound-design for the original Flow game.
 new-date: Apr 2009

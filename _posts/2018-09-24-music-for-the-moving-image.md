@@ -1,7 +1,7 @@
 ---
 title: music for the moving image
 categories: [teaching]
-tags: [teaching, music, film, games]
+tags: [teaching, academic, music, film, games]
 short: A 15 credit module that allowed students to create original music and sound design that experiments with poetry, short films and video games using acoustic and computer-based methods of composition. 
 new-date: Sep 2018 - Feb 2019
 ---
