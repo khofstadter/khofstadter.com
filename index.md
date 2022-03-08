@@ -8,11 +8,12 @@ Hello! I am a creative technologist working as a researcher, lecturer, freelance
 <br>
 
 <div class="tab">
-  Projects organised
+Organise projects 
   
-  <button class="tablinks" onclick="openCity(event, 'categories')">by main theme</button>
+  <button class="tablinks" onclick="openCity(event, 'categories')">thematically</button>
   or 
   <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen" >chronologically</button> 
+  :
   
   <!--
   or 
