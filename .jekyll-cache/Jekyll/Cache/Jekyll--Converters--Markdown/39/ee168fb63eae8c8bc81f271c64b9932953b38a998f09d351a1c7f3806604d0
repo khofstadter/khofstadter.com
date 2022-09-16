@@ -1,13 +1,14 @@
-I"bú<p>Hello! I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEd√∂r. I am a Hungarian, living in England. This website can inform you about my work.</p>
+I"rú<p>Hello! I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEd√∂r. I am a Hungarian, living in England. This website can inform you about my work.</p>
 
 <p><br /></p>
 
 <div class="tab">
-  Projects organised
+Organise projects 
   
-  <button class="tablinks" onclick="openCity(event, 'categories')">by main theme</button>
+  <button class="tablinks" onclick="openCity(event, 'categories')">thematically</button>
   or 
   <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen">chronologically</button> 
+  :
   
   <!--
   or 
@@ -44,23 +45,6 @@ there is also a file added in layouts: external.html and the posts amended accor
       </ul>
     </li>
     
-    
-    
-    <li>
-    <input id="node1++2" name="node" class="node" type="radio" />
-        <label for="node1++2" data-idx="1++2">doctoral thesis</label>
-      <ul>
-        <li>
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>sound and music</em>
-          <br /><br />
-          <div class="short"> My research developed brain-computer music interfaces to help create and maintain meditative states of mind.</div>
-          <br />
-          <a href="https://bcmi.khofstadter.com/"> <svg height="15" viewBox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
-      </li>
-      </ul>
-    </li>
-    
   </ul>
 </form>
 
@@ -78,7 +62,26 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       <li>
         <input id="node2++1" name="node" class="node" type="radio" />
-        <label for="node2++1" data-idx="2++1">2021 inc. cinematic exp. through sound design</label>
+        <label for="node2++1" data-idx="2++1">2022 doctoral thesis</label>
+        <ul>
+          <li>
+            <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>sound and music</em>
+          <br /><br />
+          <div class="short"> My research developed brain-computer music interfaces to help create and maintain meditative states of mind.</div>
+          <br />
+          <a href="https://bcmi.khofstadter.com/"> <svg height="15" viewBox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+        </li>
+        </ul>
+      </li>
+        
+      
+      
+      
+      
+      <li>
+        <input id="node2++2" name="node" class="node" type="radio" />
+        <label for="node2++2" data-idx="2++2">2021 inc. cinematic exp. through sound design</label>
         <ul>
           <li>
             <br />
@@ -96,8 +99,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++2" name="node" class="node" type="radio" />
-        <label for="node2++2" data-idx="2++2">2021 navigating the digital world</label>
+        <input id="node2++3" name="node" class="node" type="radio" />
+        <label for="node2++3" data-idx="2++3">2021 navigating the digital world</label>
         <ul>
           <li>
             <br />
@@ -115,8 +118,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++3" name="node" class="node" type="radio" />
-        <label for="node2++3" data-idx="2++3">2021 regions of learning consulting</label>
+        <input id="node2++4" name="node" class="node" type="radio" />
+        <label for="node2++4" data-idx="2++4">2021 regions of learning consulting</label>
         <ul>
           <li>
             <br />
@@ -134,8 +137,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++4" name="node" class="node" type="radio" />
-        <label for="node2++4" data-idx="2++4">2020 multilingual website workshops</label>
+        <input id="node2++5" name="node" class="node" type="radio" />
+        <label for="node2++5" data-idx="2++5">2020 multilingual website workshops</label>
         <ul>
           <li>
             <br />
@@ -153,8 +156,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++5" name="node" class="node" type="radio" />
-        <label for="node2++5" data-idx="2++5">2020 seeing films through sound</label>
+        <input id="node2++6" name="node" class="node" type="radio" />
+        <label for="node2++6" data-idx="2++6">2020 seeing films through sound</label>
         <ul>
           <li>
             <br />
@@ -172,8 +175,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++6" name="node" class="node" type="radio" />
-        <label for="node2++6" data-idx="2++6">2020 accessible filmmaking, sound design...</label>
+        <input id="node2++7" name="node" class="node" type="radio" />
+        <label for="node2++7" data-idx="2++7">2020 accessible filmmaking, sound design...</label>
         <ul>
           <li>
             <br />
@@ -191,8 +194,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++7" name="node" class="node" type="radio" />
-        <label for="node2++7" data-idx="2++7">2019 making assessment practices inclusive</label>
+        <input id="node2++8" name="node" class="node" type="radio" />
+        <label for="node2++8" data-idx="2++8">2019 making assessment practices inclusive</label>
         <ul>
           <li>
             <br />
@@ -210,8 +213,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++8" name="node" class="node" type="radio" />
-        <label for="node2++8" data-idx="2++8">2019 self and peer assessment tool and rationale</label>
+        <input id="node2++9" name="node" class="node" type="radio" />
+        <label for="node2++9" data-idx="2++9">2019 self and peer assessment tool and rationale</label>
         <ul>
           <li>
             <br />
@@ -229,8 +232,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++9" name="node" class="node" type="radio" />
-        <label for="node2++9" data-idx="2++9">2019 sonic art</label>
+        <input id="node2++10" name="node" class="node" type="radio" />
+        <label for="node2++10" data-idx="2++10">2019 sonic art</label>
         <ul>
           <li>
             <br />
@@ -248,8 +251,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++10" name="node" class="node" type="radio" />
-        <label for="node2++10" data-idx="2++10">2018 thoughts on game audio</label>
+        <input id="node2++11" name="node" class="node" type="radio" />
+        <label for="node2++11" data-idx="2++11">2018 thoughts on game audio</label>
         <ul>
           <li>
             <br />
@@ -267,8 +270,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++11" name="node" class="node" type="radio" />
-        <label for="node2++11" data-idx="2++11">2018 short history of film music</label>
+        <input id="node2++12" name="node" class="node" type="radio" />
+        <label for="node2++12" data-idx="2++12">2018 short history of film music</label>
         <ul>
           <li>
             <br />
@@ -286,8 +289,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++12" name="node" class="node" type="radio" />
-        <label for="node2++12" data-idx="2++12">2018 synaesthesia and visual music</label>
+        <input id="node2++13" name="node" class="node" type="radio" />
+        <label for="node2++13" data-idx="2++13">2018 synaesthesia and visual music</label>
         <ul>
           <li>
             <br />
@@ -305,8 +308,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++13" name="node" class="node" type="radio" />
-        <label for="node2++13" data-idx="2++13">2018 sensor technology</label>
+        <input id="node2++14" name="node" class="node" type="radio" />
+        <label for="node2++14" data-idx="2++14">2018 sensor technology</label>
         <ul>
           <li>
             <br />
@@ -324,8 +327,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++14" name="node" class="node" type="radio" />
-        <label for="node2++14" data-idx="2++14">2018 music for the moving image</label>
+        <input id="node2++15" name="node" class="node" type="radio" />
+        <label for="node2++15" data-idx="2++15">2018 music for the moving image</label>
         <ul>
           <li>
             <br />
@@ -343,8 +346,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++15" name="node" class="node" type="radio" />
-        <label for="node2++15" data-idx="2++15">2018 imaginary soundscape - poetry to music</label>
+        <input id="node2++16" name="node" class="node" type="radio" />
+        <label for="node2++16" data-idx="2++16">2018 imaginary soundscape - poetry to music</label>
         <ul>
           <li>
             <br />
@@ -362,8 +365,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++16" name="node" class="node" type="radio" />
-        <label for="node2++16" data-idx="2++16">2018 storylab research</label>
+        <input id="node2++17" name="node" class="node" type="radio" />
+        <label for="node2++17" data-idx="2++17">2018 storylab research</label>
         <ul>
           <li>
             <br />
@@ -381,8 +384,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++17" name="node" class="node" type="radio" />
-        <label for="node2++17" data-idx="2++17">2018 audio description in the UK</label>
+        <input id="node2++18" name="node" class="node" type="radio" />
+        <label for="node2++18" data-idx="2++18">2018 audio description in the UK</label>
         <ul>
           <li>
             <br />
@@ -400,8 +403,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++18" name="node" class="node" type="radio" />
-        <label for="node2++18" data-idx="2++18">2017 photography</label>
+        <input id="node2++19" name="node" class="node" type="radio" />
+        <label for="node2++19" data-idx="2++19">2017 photography</label>
         <ul>
           <li>
             <br />
@@ -419,8 +422,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++19" name="node" class="node" type="radio" />
-        <label for="node2++19" data-idx="2++19">2017 recitativo 395 gallery london</label>
+        <input id="node2++20" name="node" class="node" type="radio" />
+        <label for="node2++20" data-idx="2++20">2017 recitativo 395 gallery london</label>
         <ul>
           <li>
             <br />
@@ -438,8 +441,8 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++20" name="node" class="node" type="radio" />
-        <label for="node2++20" data-idx="2++20">2016 laptop performance</label>
+        <input id="node2++21" name="node" class="node" type="radio" />
+        <label for="node2++21" data-idx="2++21">2016 laptop performance</label>
         <ul>
           <li>
             <br />
@@ -452,10 +455,6 @@ there is also a file added in layouts: external.html and the posts amended accor
         </ul>
       </li>
         
-      
-      
-      
-      
       
       
       
@@ -1158,7 +1157,24 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
       <input id="node3++3++1" name="node" class="node" type="radio" />
-      <label for="node3++3++1" data-idx="3++3++1">2017 recitativo 395 gallery london</label>
+      <label for="node3++3++1" data-idx="3++3++1">2022 doctoral thesis</label>
+      <ul>
+        <li>
+        <br />
+        <div class="short"> My research developed brain-computer music interfaces to help create and maintain meditative states of mind. </div>
+        <br />
+        <a href="https://bcmi.khofstadter.com/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+    
+    
+    
+    
+    
+    <li>
+      <input id="node3++3++2" name="node" class="node" type="radio" />
+      <label for="node3++3++2" data-idx="3++3++2">2017 recitativo 395 gallery london</label>
       <ul>
         <li>
         <br />
@@ -1174,31 +1190,14 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++3++2" name="node" class="node" type="radio" />
-      <label for="node3++3++2" data-idx="3++3++2">(ongoing) enhancing audio description</label>
+      <input id="node3++3++3" name="node" class="node" type="radio" />
+      <label for="node3++3++3" data-idx="3++3++3">(ongoing) enhancing audio description</label>
       <ul>
         <li>
         <br />
         <div class="short"> In this AHRC funded project, we seek to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. </div>
         <br />
         <a href="https://enhancingaudiodescription.com/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
-      </li>
-      </ul>
-    </li>
-    
-    
-    
-    
-    
-    <li>
-      <input id="node3++3++3" name="node" class="node" type="radio" />
-      <label for="node3++3++3" data-idx="3++3++3">(ongoing) doctoral thesis</label>
-      <ul>
-        <li>
-        <br />
-        <div class="short"> My research developed brain-computer music interfaces to help create and maintain meditative states of mind. </div>
-        <br />
-        <a href="https://bcmi.khofstadter.com/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
       </ul>
     </li>
