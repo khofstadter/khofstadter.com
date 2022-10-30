@@ -32,9 +32,11 @@ Organise projects
 <div id="categories" class="tabcontent">
   {% include index-cat.html %}
 </div>
-<br>
+<!--<br>
 My cv is [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
-<br><br>
+<br>-->
+
+<br>
 You can contact me on kris[at]khofstadter[dot]com
 <br><br>
 ![Krisztián drinking tea](assets/img/khofstadter_by_balazs_kiss.jpg)<br> _photo by Balázs Kiss_
