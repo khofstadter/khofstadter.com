@@ -3,59 +3,22 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hello! I am a creative technologist working as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian, living in England. This website can inform you about my work.
+Hi! I work as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian living in England. 
 
-<br>
+I am currently remaking this website. 
 
-<div class="tab">
-Organise projects 
-  
-  <button class="tablinks" onclick="openCity(event, 'categories')">thematically</button>
-  or 
-  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen" >chronologically</button> 
-  :
-  
-  <!--
-  or 
-  <button class="tablinks" onclick="openCity(event, 'tags')">by tags</button>
-  -->
-  
-</div>
+The main things :
 
-<div id="time" class="tabcontent">
-  <h3>ongoing</h3>
-  {% include index-cron-ongoing.html %}
-  <h3>past</h3>
-  {% include index-cron.html %}
-</div>
+## now
+- [Enhancing Audio Description II](https://enhancingaudiodescription.com/) (Postdoc @ University of York)
+- [Navigating the Digital World](https://github.com/khofstadter/CS220AU) (Part-time Lecturing @ University of Essex)
+- contextualizing [PhD outcomes](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) for research papers
 
-<div id="categories" class="tabcontent">
-  {% include index-cat.html %}
-</div>
-<!--<br>
-My cv is [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
-<br>-->
 
-<br>
+## past
+- Music on [BandCamp](https://tedor.bandcamp.com/)
+- Videos on [YouTube](https://www.youtube.com/@krishofstadter/videos)
+
+Last CV [here](assets/doc/Hofstadter-cv-2023.pdf). 
+
 You can contact me on kris[at]khofstadter[dot]com
-<br><br>
-![Krisztián drinking tea](assets/img/khofstadter_by_balazs_kiss.jpg)<br> _photo by Balázs Kiss_
-
-<script>
-function openCity(evt, cityName) {
-    var i, tabcontent, tablinks;
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
-    }
-    tablinks = document.getElementsByClassName("tablinks");
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(" active", "");
-    }
-    document.getElementById(cityName).style.display = "block";
-    evt.currentTarget.className += " active";
-}
-
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
