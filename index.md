@@ -15,8 +15,8 @@ The main things:
 - contextualizing [PhD outcomes](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) for research papers
 
 ## past
-- Music on [Bandcamp](https://tedor.bandcamp.com/)
-- Videos on [YouTube](https://www.youtube.com/@krishofstadter/videos)
+- music on [Bandcamp](https://tedor.bandcamp.com/)
+- videos on [YouTube](https://www.youtube.com/@krishofstadter/videos)
 
 Last CV [here](assets/doc/Hofstadter-cv-2023.pdf). 
 
