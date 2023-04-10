@@ -3,11 +3,11 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hi! I work as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian living in England. 
+I work as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian living in England. 
 
-I am currently remaking this website. 
+There used to be more on this website. I am remaking it. I am trying to simply it. 
 
-The main things I am working on now:
+The main things:
 
 ## now
 - [Enhancing Audio Description II](https://enhancingaudiodescription.com/) (Postdoc @ University of York)
