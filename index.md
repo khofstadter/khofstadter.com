@@ -8,9 +8,10 @@ Hi there! I'm tEdör, a Hungarian living in England. I'm a researcher, lecturer,
 Main things: 
 
 ## now
+- contextualizing [PhD thesis](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) for research papers
 - [Enhancing Audio Description II](https://enhancingaudiodescription.com/) (Postdoc @ University of York)
 - [Navigating the Digital World](https://github.com/khofstadter/CS220AU) (Part-time lecturing @ University of Essex)
-- contextualizing [PhD outcomes](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) for research papers
+
 
 ## past
 - music on [Bandcamp](https://tedor.bandcamp.com/)
