@@ -3,11 +3,9 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-I work as a researcher, lecturer, freelancer and artist also known as tEdör. I am a Hungarian living in England. 
+Hi there! I'm tEdör, a Hungarian living in England. I'm a researcher, lecturer, freelancer, and artist interested in interdisciplinary work. I'm currently working on simplifying my portfolio. Stay tuned!
 
-There used to be more on this website. I am remaking it. I am trying to simply it. 
-
-The main things:
+Main things: 
 
 ## now
 - [Enhancing Audio Description II](https://enhancingaudiodescription.com/) (Postdoc @ University of York)
@@ -17,7 +15,6 @@ The main things:
 ## past
 - music on [Bandcamp](https://tedor.bandcamp.com/)
 - videos on [YouTube](https://www.youtube.com/@krishofstadter/videos)
-
-Last CV [here](assets/doc/Hofstadter-cv-2023.pdf). 
+- CV [here](assets/doc/Hofstadter-cv-2023.pdf). 
 
 You can contact me on kris[at]khofstadter[dot]com
