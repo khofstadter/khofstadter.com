@@ -19,3 +19,14 @@ Main things:
 - CV [here](assets/doc/Hofstadter-cv-2023.pdf). 
 
 You can contact me on kris[at]khofstadter[dot]com
+
+<div id="quote"></div>
+
+<script>
+  const quotes = {{ site.data.quotes | jsonify }};
+  const quote = quotes[Math.floor(Math.random() * quotes.length)];
+  document.getElementById("quote").innerHTML =
+    `<blockquote><p>${quote.quote}  ~${quote.author} (${quote.year})</blockquote>`;
+</script>
+
+
