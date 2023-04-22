@@ -3,15 +3,28 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=AtkinsonHyperlegible">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <!-- what are the risks with adding á and ä? -->
+  <title>Krisztian Hofstadter</title>
+
+  <!-- add the font files to repo instead linking to Google? -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet">
+  
   <meta name="description" content="{{ site.description }}">
   <title>{{ page.title }} - {{site.title}}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
   <h1><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1>
+  <!-- this will go in a stylesheet file later used by all pages/posts -->
 </head>
 <body>
+  <header>
+    <nav>
+      <button onclick="contrast()" title="Daylight is mine to command!">dark/light</button>
+    </nav>
+    
+    </header>
     {{ content }}
     {% include google_analytics.html %}
 </body>

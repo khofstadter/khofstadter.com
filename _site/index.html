@@ -3,31 +3,45 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=AtkinsonHyperlegible">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <!-- what are the risks with adding á and ä? -->
+  <title>Krisztian Hofstadter</title>
+
+  <!-- add the font files to repo instead linking to Google? -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet">
+  
   <meta name="description" content="Archive of Krisztián Hofstädter aka tEdör">
   <title>tEdör aka Krisztián Hofstädter - Krisztián Hofstädter</title>
   <link rel="stylesheet" href="/css/style.css" />
   <h1><a href="http://localhost:4000/">Krisztián Hofstädter</a></h1>
+  <!-- this will go in a stylesheet file later used by all pages/posts -->
 </head>
 <body>
-    <p>Hi there! I’m tEdör, a Hungarian living in England. I’m a researcher, lecturer, freelancer, and artist interested in interdisciplinary work. I’m currently working on simplifying my portfolio. Stay tuned!</p>
+  <header>
+    <nav>
+      <button onclick="contrast()" title="Daylight is mine to command!">dark/light</button>
+    </nav>
+    
+    </header>
+    <p>Hi there! I’m tEdör, a Hungarian living in England. I’m a researcher, lecturer, freelancer, and artist interested in interdisciplinary work.</p>
 
-<p>Main things:</p>
+<p>I am remaking the old website, the main things are listed below:</p>
 
 <h2 id="now">now</h2>
 <ul>
   <li>contextualizing <a href="https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation">PhD thesis</a> for research papers</li>
-  <li><a href="https://enhancingaudiodescription.com/">Enhancing Audio Description II</a> (Postdoc @ University of York)</li>
-  <li><a href="https://github.com/khofstadter/CS220AU">Navigating the Digital World</a> (Part-time lecturing @ University of Essex)</li>
+  <li><a href="https://enhancingaudiodescription.com/">Enhancing Audio Description II</a> (postdoc @ University of York)</li>
+  <li>preparing a new syllabus for the <a href="https://github.com/khofstadter/CS220AU">Navigating the Digital World</a> module (part-time lecturing @ University of Essex)</li>
+  <li>developing a personalised Zettlekasten method in Visual Studio Code using <a href="https://foambubble.github.io/foam/">Foam</a></li>
 </ul>
 
 <h2 id="past">past</h2>
 <ul>
   <li>music on <a href="https://tedor.bandcamp.com/">Bandcamp</a></li>
   <li>videos on <a href="https://www.youtube.com/@krishofstadter/videos">YouTube</a></li>
-  <li>CV <a href="assets/doc/Hofstadter-cv-2023.pdf">here</a>.</li>
+  <li>CV <a href="assets/doc/Hofstadter-cv-2023.pdf">here</a></li>
 </ul>
 
 <p>You can contact me on kris[at]khofstadter[dot]com</p>
@@ -35,11 +49,18 @@
 <div id="quote"></div>
 
 <script>
-  const quotes = [{"quote":"The best way to predict the future is to invent it.","author":"Alan Kay","year":1971,"tags":["literature","pain"]},{"quote":"Any sufficiently advanced technology is indistinguishable from magic.","author":"Arthur C. Clarke","year":1961,"tags":["literature","pain"]},{"quote":"Anonon.","author":"Arthur Yono","year":1961,"tags":["literature","not"]}];
+  const quotes = [{"quote":"The best way to predict the future is to invent it.","author":"Alan Kay","year":1971,"tags":["literature","pain"]},{"quote":"Any sufficiently advanced technology is indistinguishable from magic.","author":"Arthur C. Clarke","year":1961,"tags":["literature","pain"]},{"quote":"Anonon.","author":"Arthur Yono","year":1961,"tags":["literature","not"]},{"quote":"Where focus grows, energy flows.","author":"Anonymous.","year":"n.d.","tags":["focus","energy"]},{"quote":"Mastery is a path shaped by ongoing learning, passion and patience and is reinforced by rediscoveries of your own potential.","author":"tEdör","year":2023,"tags":["mastery","path"]}];
   const quote = quotes[Math.floor(Math.random() * quotes.length)];
   document.getElementById("quote").innerHTML =
     `<blockquote><p>${quote.quote}  ~${quote.author} (${quote.year})</blockquote>`;
 </script>
+
+<script>
+        function contrast() {
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+        }
+    </script>
 
 
     
