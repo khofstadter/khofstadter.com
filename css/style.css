@@ -16,11 +16,15 @@ h3 {
 }
 
 a {
-  color: #048ABF;
+  color: #444;
   text-decoration: underline;
 }
 
 .dark-mode {
   background-color: #444;
   color: white;
+}
+
+.dark-mode a {
+  color: white; /* Replace with your desired color */
 }

@@ -3,7 +3,7 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hi there! I'm tEdör, a Hungarian living in England. I'm a researcher, lecturer, freelancer, and artist interested in interdisciplinary work.
+Hi! I'm tEdör, a Hungarian living in England. I'm a researcher, lecturer, freelancer, and artist interested in interdisciplinary work.
 
 I am remaking the old website, the main things are listed below: 
 
