@@ -3,23 +3,20 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hi! I'm tEdör, a Hungarian living in England. I'm a researcher, lecturer, freelancer, and artist interested in interdisciplinary work.
+Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England. 
 
-I am remaking the old website, the main things are listed below: 
+## Now
+- Developing each chapter of my [PhD thesis](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) into research papers for relevant journals as an independent researcher.
+- Working on Prof Mariana López's [Enhancing Audio Description II](https://enhancingaudiodescription.com/) project as a postdoc at the University of York.
+- Preparing a new syllabus for the [Navigating the Digital World](https://github.com/khofstadter/CS220AU) module as part-time lecturer at the University of Essex and running audio recording and editing workshops. 
+- Developing a personalized zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/).
 
-## now
-- contextualizing [PhD thesis](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) for research papers 
-- [Enhancing Audio Description II](https://enhancingaudiodescription.com/) (postdoc @ University of York)
-- preparing a new syllabus for the [Navigating the Digital World](https://github.com/khofstadter/CS220AU) module (part-time lecturing @ University of Essex)
-- developing a personalised Zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/)
+## Past
+- Check out my music on [Bandcamp](https://tedor.bandcamp.com/) and videos on [YouTube](https://www.youtube.com/@krishofstadter/videos). My CV is [here](assets/doc/Hofstadter-cv-2023.pdf).
 
+## Email
 
-## past
-- music on [Bandcamp](https://tedor.bandcamp.com/)
-- videos on [YouTube](https://www.youtube.com/@krishofstadter/videos)
-- CV [here](assets/doc/Hofstadter-cv-2023.pdf)
-
-You can contact me on kris[at]khofstadter[dot]com
+kris[at]khofstadter[dot]com
 
 <div id="quote"></div>
 

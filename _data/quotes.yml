@@ -6,10 +6,6 @@
   author: Arthur C. Clarke
   year: 1961
   tags: [literature, pain]
-- quote: "Anonon."
-  author: Arthur Yono
-  year: 1961
-  tags: [literature, not]
 - quote: "Where focus grows, energy flows."
   author: k
   year: 2022
@@ -18,3 +14,27 @@
   author: k
   year: 2023
   tags: [mastery, path]
+- quote:  "All criticism is a form of autobiography."
+  author: Oscar Wilde
+  year: n.d.
+  tags: [criticism, mind]
+- quote:  "What distinguishes dissonance from consonances is not a greater or lesser degree of beauty, but a greater or lesser degree of comprehensibility."
+  author: Arnold Schönberg
+  year: 1975
+  tags: [dissonance]
+- quote:  "When you read, don’t just consider what the author thinks, consider what you think."
+  author: John Keating / Tom Schulman 
+  year: 1989
+  tags: [reading, thinking]
+- quote:  "Restrictions sometimes can conjure really great ideas that provide solutions. Necessity is the mother of invention."
+  author: David Lynch
+  year: 2021
+  tags: [solution, necessity]
+- quote: "Pick your fights."
+  author: Unknown
+  year: n.d.
+  tags: [choice, fighting]
+- quote: "Knowing what questions to ask will show my weakest link of understanding."
+  author: k
+  year: 2022
+  tags: [question]
