@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <!-- what are the risks with adding á and ä? -->
-  <title>Krisztian Hofstadter</title>
+  <title>The Website Of Krisztián Hofstädter</title>
 
   <!-- add the font files to repo instead linking to Google? -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,6 +13,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet">
   
   <meta name="description" content="{{ site.description }}">
+  <nav>
+    <button onclick="contrast()" title="Daylight is mine to command!">dark/light</button>
+  </nav>
   <title>{{ page.title }} - {{site.title}}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
   <h1><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1>
@@ -20,9 +23,7 @@
 </head>
 <body>
   <header>
-    <nav>
-      <button onclick="contrast()" title="Daylight is mine to command!">dark/light</button>
-    </nav>
+    
     
     </header>
     {{ content }}

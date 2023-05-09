@@ -3,7 +3,9 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England. 
+Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England with main interested in Technology, Education and Art (TEA). If these interests you, consider subscribing to my mailing list below. 
+
+<br> 
 
 ## Now
 - Developing each chapter of my [PhD thesis](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) into research papers for relevant journals as an independent researcher.
@@ -11,22 +13,42 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 - Preparing a new syllabus for the [Navigating the Digital World](https://github.com/khofstadter/CS220AU) module as part-time lecturer at the University of Essex and running audio recording and editing workshops. 
 - Developing a personalized zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/) – while considering the analogue method of Niklas Luhman (and Scott Scheper). 
 
+<br> 
+
 ## Past
 - Check out my music on [Bandcamp](https://tedor.bandcamp.com/) and videos on [YouTube](https://www.youtube.com/@krishofstadter/videos). My CV is [here](assets/doc/Hofstadter-cv-2023.pdf).
 
-
+<br> 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
-    <form action="https://khofstadter.us8.list-manage.com/subscribe/post?u=29dd7973145c920986a862a12&amp;id=ff84fd9c1a&amp;f_id=003078e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+    <form action="https://khofstadter.us8.list-manage.com/subscribe/post?u=29dd7973145c920986a862a12&amp;id=ff84fd9c1a&amp;v_id=3371&amp;f_id=003078e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
         <div id="mc_embed_signup_scroll">
         <h2>Subscribe</h2>
+        <p>All fields required.</p>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-FNAME">First Name</label>
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required>
+	<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name</label>
+	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME" required>
+	<span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
-<p>You can unsubscribe at any time by clicking the link in the footer of my emails. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+<div class="mc-field-group">
+	<label for="mce-MMERGE6">Why are you interested?</label>
+	<input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6" required>
+	<span id="mce-MMERGE6-HELPERTEXT" class="helper_text"></span>
+</div>
+<br>
+<div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+		<label class="checkbox subfield" for="gdpr_42739"><input type="checkbox" id="gdpr_42739" name="gdpr[42739]" value="Y" class="av-checkbox gdpr"><span> Your data is safe with me and <a href="https://mailchimp.com/legal/terms" target="_blank">MailChimp</a> but you can unsubscribe at any time if needed. Once I am ready, I will send one email per week. No more. Tick if you understand.</span></label>
+</div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -42,9 +64,6 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 </div>
 
 <!--End mc_embed_signup-->
-
-
-
 
 <br>
 
