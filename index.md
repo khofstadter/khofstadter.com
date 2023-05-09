@@ -3,7 +3,7 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England with main interested in Technology, Education and Art (TEA). If these interests you, consider subscribing to my mailing list below. 
+Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England with main interested in Technology, Education and Art (TEA). If these interests you too, consider subscribing to my mailing list below. 
 
 <br> 
 
@@ -12,6 +12,7 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 - Working on Prof Mariana López's [Enhancing Audio Description II](https://enhancingaudiodescription.com/) project as a postdoc at the University of York.
 - Preparing a new syllabus for the [Navigating the Digital World](https://github.com/khofstadter/CS220AU) module as part-time lecturer at the University of Essex and running audio recording and editing workshops. 
 - Developing a personalized zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/) – while considering the analogue method of Niklas Luhman (and Scott Scheper). 
+- Redesigning this website so that it can not only archive my past work but also serve as a vehicle for disseminating my new ideas linked to TEA with particular focus on meditation and personal knowledge management. 
 
 <br> 
 
@@ -47,7 +48,7 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 </div>
 <br>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-		<label class="checkbox subfield" for="gdpr_42739"><input type="checkbox" id="gdpr_42739" name="gdpr[42739]" value="Y" class="av-checkbox gdpr"><span> Your data is safe with me and <a href="https://mailchimp.com/legal/terms" target="_blank">MailChimp</a> but you can unsubscribe at any time if needed. Once I am ready, I will send one email per week. No more. Tick if you understand.</span></label>
+		<label class="checkbox subfield" for="gdpr_42739"><input type="checkbox" id="gdpr_42739" name="gdpr[42739]" value="Y" class="av-checkbox gdpr"><span> Your data is safe with me and <a href="https://mailchimp.com/legal/terms" target="_blank">MailChimp</a> but you can unsubscribe at any time if needed. Once I am ready, I will send one email per week. No more. Tick the box if you understand and the press the Subscribe button below..</span></label>
 </div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
