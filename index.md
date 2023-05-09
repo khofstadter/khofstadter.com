@@ -21,20 +21,30 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
         <div id="mc_embed_signup_scroll">
         <h2>Subscribe</h2>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Your Email Address</label>
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
 <p>You can unsubscribe at any time by clicking the link in the footer of my emails. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
-    </div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_29dd7973145c920986a862a12_ff84fd9c1a" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+        </div>
+    </div>
 </form>
 </div>
+
 <!--End mc_embed_signup-->
+
+
+
 
 <br>
 
