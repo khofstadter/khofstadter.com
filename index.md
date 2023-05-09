@@ -14,11 +14,32 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 ## Past
 - Check out my music on [Bandcamp](https://tedor.bandcamp.com/) and videos on [YouTube](https://www.youtube.com/@krishofstadter/videos). My CV is [here](assets/doc/Hofstadter-cv-2023.pdf).
 
-## Email
 
-kris[at]khofstadter[dot]com
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+    <form action="https://khofstadter.us8.list-manage.com/subscribe/post?u=29dd7973145c920986a862a12&amp;id=ff84fd9c1a&amp;f_id=003078e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+        <div id="mc_embed_signup_scroll">
+        <h2>Subscribe</h2>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Your Email Address</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<p>You can unsubscribe at any time by clicking the link in the footer of my emails. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+    </div>
+	<div id="mce-responses" class="clear foot">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_29dd7973145c920986a862a12_ff84fd9c1a" tabindex="-1" value=""></div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+<br>
 
 <div id="quote"></div>
+
 
 <script>
   const quotes = {{ site.data.quotes | jsonify }};
