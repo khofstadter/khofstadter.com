@@ -81,7 +81,7 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 <script>
         function contrast() {
             var element = document.body;
-            element.classList.toggle("dark-mode");
+            element.classList.toggle("light-mode");
         }
     </script>
 
