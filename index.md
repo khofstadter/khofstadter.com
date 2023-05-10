@@ -17,7 +17,9 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 <br> 
 
 ## Past
-- Check out my music on [Bandcamp](https://tedor.bandcamp.com/) and videos on [YouTube](https://www.youtube.com/@krishofstadter/videos). My CV is [here](assets/doc/Hofstadter-cv-2023.pdf).
+- Music on [Bandcamp](https://tedor.bandcamp.com/)
+- Videos on [YouTube](https://www.youtube.com/@krishofstadter/)
+- CV in [this PDF](assets/doc/Hofstadter-cv-2023.pdf)
 
 <br> 
 <!-- Begin Mailchimp Signup Form -->
