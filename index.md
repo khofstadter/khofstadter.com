@@ -3,7 +3,7 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England with main interested in Technology, Education and Art (TEA). If these interests you too, consider subscribing to my mailing list below. 
+Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England with main interested in Technology, Education and Art (TEA). If these interests you too, consider subscribing to my mailing list below. I will start sending emails in a couple of months. 
 
 <br> 
 
