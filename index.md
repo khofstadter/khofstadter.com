@@ -3,7 +3,7 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England with main interested in Technology, Education and Art (TEA). If these interests you too, consider subscribing to my mailing list below. I will start sending emails in a couple of months. 
+Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England who is interested in Technology, Education, and Art (TEA). Consider subscribing to my mailing list below, to which I will share some ideas in edutainment style, in a few months.
 
 <br> 
 
@@ -11,12 +11,13 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 - Developing each chapter of my [PhD thesis](https://www.researchgate.net/publication/368365376_Developing_Brain-Computer_Music_Interfaces_for_Meditation) into research papers for relevant journals as an independent researcher.
 - Working on Prof Mariana López's [Enhancing Audio Description II](https://enhancingaudiodescription.com/) project as a postdoc at the University of York.
 - Preparing a new syllabus for the [Navigating the Digital World](https://github.com/khofstadter/CS220AU) module as part-time lecturer at the University of Essex and running audio recording and editing workshops. 
-- Developing a personalized zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/) – while considering the analogue method of Niklas Luhman (and Scott Scheper). 
-- Redesigning this website so that it can not only archive my past work but also serve as a vehicle for disseminating my new ideas linked to TEA with particular focus on meditation and personal knowledge management. 
+- Developing a personalized zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/) while considering the analogue method of Niklas Luhman (and Scott Scheper). 
+- Redesigning this website so that it can not only archive my past work but also serve as a vehicle for disseminating my new ideas linked to TEA with a particular focus on meditation and personal knowledge management.
+
 
 <br> 
 
-## Past
+## Some Past
 - Music on [Bandcamp](https://tedor.bandcamp.com/)
 - Videos on [YouTube](https://www.youtube.com/@krishofstadter/)
 - CV in [this PDF](assets/doc/Hofstadter-cv-2023.pdf)
