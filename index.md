@@ -3,7 +3,9 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England who is interested in Technology, Education, and Art (TEA). Consider subscribing to my mailing list below, to which I will share some ideas in edutainment style, in a few months.
+Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England. This website shares my progress on learning science to produce art. While my main focus is on using sound to induce and maintain alter states of consciousness (ASC), I am also interested in developing my personal knowledge management with the Zettlekasten method and in keeping my family healthy with exercise and food. 
+
+Subscribing to my mailing list below, to hear more about my progress. 
 
 <br> 
 
@@ -12,7 +14,7 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
 - Working on Prof Mariana López's [Enhancing Audio Description II](https://enhancingaudiodescription.com/) project as a postdoc at the University of York.
 - Preparing a new syllabus for the [Navigating the Digital World](https://github.com/khofstadter/CS220AU) module as part-time lecturer at the University of Essex and running audio recording and editing workshops. 
 - Developing a personalized zettlekasten method in Visual Studio Code using [Foam](https://foambubble.github.io/foam/) while considering the analogue method of Niklas Luhman (and Scott Scheper). 
-- Redesigning this website so that it can not only archive my past work but also serve as a vehicle for disseminating my new ideas linked to TEA with a particular focus on meditation and personal knowledge management.
+- Redesigning this website so that it can not only archive my past work but also serve as a vehicle for disseminating new ideas.
 
 
 <br> 
@@ -87,5 +89,3 @@ Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in Englan
             element.classList.toggle("light-mode");
         }
     </script>
-
-
