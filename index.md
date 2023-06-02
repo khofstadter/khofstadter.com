@@ -49,14 +49,9 @@ Subscribe to my mailing list below to hear more about my progress.
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
-<div class="mc-field-group">
-	<label for="mce-MMERGE6">Why are you interested?</label>
-	<input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6" required>
-	<span id="mce-MMERGE6-HELPERTEXT" class="helper_text"></span>
-</div>
 <br>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
-		<label class="checkbox subfield" for="gdpr_42739"><input type="checkbox" id="gdpr_42739" name="gdpr[42739]" value="Y" class="av-checkbox gdpr"><span> Your data is <a href="https://mailchimp.com/legal/terms" target="_blank">safe</a> and of course you can unsubscribe at any time if needed. In few months, I will send one succinct email per week. No more. To subcribe, tick the box and press the button below.</span></label>
+		<label class="checkbox subfield" for="gdpr_42739"><input type="checkbox" id="gdpr_42739" name="gdpr[42739]" value="Y" class="av-checkbox gdpr"><span> Your data is <a href="https://mailchimp.com/legal/terms" target="_blank">safe</a> and you can unsubscribe at any time. I will send one succinct email per week. No more. To subcribe, tick the box and press the button below.</span></label>
 </div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
