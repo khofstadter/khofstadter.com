@@ -3,11 +3,11 @@ title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
 
-Hey there! I'm tEdör, a Hungarian interdisciplinary researcher living in England. This website shares my progress on learning science to produce art. 
+Hey there! I’m tEdör, a Hungarian interdisciplinary researcher living in England. This website shares my progress in learning science to produce art.
 
-While my main focus is on using sound to induce and maintain alter states of consciousness (ASC), I am also interested in developing my personal knowledge management with the Zettlekasten method and in keeping my family healthy with exercise and food. 
+While my main focus is on using sound to induce and maintain altered states of consciousness (ASC), I am also interested in developing my personal knowledge management skills with the Zettlekasten method and keeping my family healthy with exercise and food.
 
-Subscribing to my mailing list below, to hear more about my progress. 
+Subscribe to my mailing list below to hear more about my progress.
 
 <br> 
 
