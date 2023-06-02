@@ -27,11 +27,12 @@ Subscribe to my mailing list below to hear more about my progress.
 - CV in [this PDF](assets/doc/Hofstadter-cv-2023.pdf)
 
 <br> 
+
+## Subscribe
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
     <form action="https://khofstadter.us8.list-manage.com/subscribe/post?u=29dd7973145c920986a862a12&amp;id=ff84fd9c1a&amp;v_id=3371&amp;f_id=003078e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
         <div id="mc_embed_signup_scroll">
-        <h2>Subscribe</h2>
         <p>All fields required.</p>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name</label>
